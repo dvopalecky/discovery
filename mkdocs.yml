@@ -13,21 +13,23 @@ theme:
   language: cs
   palette:
     - scheme: default
-      primary: teal
-      accent: teal
+      primary: light blue
+      accent: light blue
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
     - scheme: slate
-      primary: teal
-      accent: teal
+      primary: light blue
+      accent: light blue
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
   features:
     - content.tooltips
   icon:
-    annotation: material/clock-outline
+      annotation: material/clock-outline
+      logo: material/hammer-wrench
+  favicon: favicon.ico
 
 extra_css:
   - style.css
