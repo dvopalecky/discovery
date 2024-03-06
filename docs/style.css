@@ -2,6 +2,14 @@ h1, h3 {
   text-transform: uppercase;
 }
 
+h2 {
+  margin-top: 20px !important;
+}
+
+ul {
+  margin-bottom: 0px !important;
+}
+
 p, li {
   line-height: 1.3;
 }

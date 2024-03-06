@@ -1,5 +1,5 @@
 # Tři třetiny pro Boží rodinu
-Pokud máte málo času, udělej pouze části :material-star-outline: "Nikdy nevynechej"
+Pokud máte málo času, udělej pouze části s :material-star-outline:
 
 ## Pohled zpět :material-clock-outline:{ title="15-30 min" .tretina }
 
@@ -17,21 +17,24 @@ Vyber jednu nebo dvě otázky:
 - Jak jsme **sdíleli** Ježíše a **pomáhali učedníkům** v růstu?
 
 ### :material-human-handsup: Oslava Ježíše
-- Oslavme Ježíše. (Např.: díky za Jeho přízeň a dary; čtení krátkých pasáží z Bible; připomínka Ježíšovy oběti = chleba a víno...)
+- Oslavme Ježíše. Např.
+    - díky za Jeho přízeň a dary
+    - čtení krátkých pasáží z Bible
+    - připomínka Ježíšovy oběti = chleba a víno
 
 ## Pohled nahoru :material-clock-outline:{ title="15-30 min" .tretina }
 
-### :material-eye-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
-**Boží rodinu** tvoří lidé oddaní Ježíši, sobě navzájem a získávání a budování učedníků.
-Vyber jednu z forem posílení vize:
-- Připomeň Boží srdce pro lidi.
-- Vysvětli některé „Proč“. (Např. proč sdílet Ježíše, proč růst ve vztahu s Ním, proč trénovat další...)
-- Můžeš použít např. biblickou pasáž, příběh, obrázek, video...
-- Povzbuzuj, sdílej nadšení...
+### :material-image-filter-hdr-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+- **Boží rodinu** tvoří lidé oddaní Ježíši, sobě navzájem a získávání a budování učedníků.
+- Vyber jednu z forem posílení vize:
+    - Připomeň Boží srdce pro lidi
+    - Vysvětli některé Proč, např. proč sdílet Ježíše, proč růst ve vztahu s Ním, proč trénovat další
+    - Můžeš použít biblickou pasáž, příběh, obrázek, video
+    - Povzbuzuj, sdílej nadšení
 
 ### :material-book-open-blank-variant-outline: Bible / Nové téma
-- Přečtěme si dnešní pasáž formou Discovery (2x čtení nahlas, rekapitulace zpaměti, kontrola správnosti)
-- Co nám tento text říká **o Ježíši** (nebo Bohu)?
+- Přečtěme si dnešní pasáž formou Discovery - 2x čtení nahlas, rekapitulace zpaměti, kontrola správnosti
+- Co nám tento text říká **o Ježíši** nebo Bohu?
 - Co nám tento text říká **o lidech**?
 
 
@@ -42,7 +45,13 @@ Vyber jednu z forem posílení vize:
 - **Komu** do příště posloužíme k poznání Ježíše a růstu v Něm?
 
 ### :material-dumbbell: Procvičování :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
-- **Procvičme** si některý z **nástrojů** (Mapa vztahů, Zájem a modlitba, Bleskový příběh, Most, Pozvání na Discovery, Mince + BOSS + křest...)
+- **Procvičme** si některý z **nástrojů**
+    - Mapa vztahů
+    - Zájem a modlitba
+    - Bleskový příběh
+    - Most
+    - Pozvání na Discovery
+    - Mince + BOSS + křest
 
 ### :material-chat-outline: Rozhovor s Ježíšem
 - **Naslouchejme** Ježíši, k čemu nás vede a zapišme si to. Možnosti:
@@ -51,4 +60,4 @@ Vyber jednu z forem posílení vize:
     - **Komu** budu sdílet Ježíše?
     - Jak pomůžu **učedníkům** v růstu?
 - Co nám Ježíš řekl při naslouchání?
-- Modleme se.
+- Modleme se
