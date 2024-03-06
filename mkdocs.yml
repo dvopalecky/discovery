@@ -3,7 +3,7 @@ site_name: Nástroje NoPlaceLeft
 nav:
   - Úvod: index.md
   - Discovery: discovery.md
-  - Rozhovor s Ježíšem: tema-02.md
+  - Boží rodina: bozi-rodina.md
 
 plugins:
   - search

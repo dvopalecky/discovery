@@ -2,8 +2,16 @@ h1, h3 {
   text-transform: uppercase;
 }
 
+h3 md-tooltip {
+  text-transform: none !important;
+}
+
 p, li {
-  line-height: 1.2;
+  line-height: 1.4;
+}
+
+li {
+  margin-bottom: 0.2em !important;
 }
 
 .nikdy-nevynechej {

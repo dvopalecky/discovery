@@ -3,7 +3,7 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 
 ## Pohled zpět :material-clock-outline:{ title="20-30 min" .tretina }
 
-### :material-heart: Vzájemná péče
+### :material-heart-outline: Vzájemná péče
 - Jednu věc, za kterou jsme od minula **vděční**?
 - Jednu věc, která nám dělá **starosti**?
 - **Ježíši, prosíme** za... (konkrétní starosti)
