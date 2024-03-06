@@ -38,7 +38,7 @@ Vyber jednu nebo dvě otázky:
 - Co nám tento text říká **o lidech**?
 
 
-## Pohled vpřed :material-clock-outline:{ title="15-30 min" .tretina }
+## Pohled dopředu :material-clock-outline:{ title="15-30 min" .tretina }
 
 ### :material-run-fast: Akce :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Co z dneška můžeme uvést do **praxe**?

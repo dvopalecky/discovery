@@ -21,7 +21,7 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 
 ## Pohled nahoru :material-clock-outline:{ title="20-30 min" .tretina }
 
-### :material-eye-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+### :material-image-filter-hdr-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás
 
 ### :material-book-open-blank-variant-outline: Bible
@@ -34,9 +34,7 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 - Co nám tento text říká **o lidech**?
 
 
-
-
-## Pohled vpřed :material-clock-outline:{ title="20-30 min" .tretina }
+## Pohled dopředu :material-clock-outline:{ title="20-30 min" .tretina }
 
 ### :material-run-fast: Akce :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Jak k nám tato pasáž mluví? Co z toho můžeme uvést do **praxe**?
