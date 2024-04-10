@@ -43,3 +43,15 @@ li {
 .tretina {
   color: orange;
 }
+
+@media screen and (orientation: landscape), screen and (min-width: 769px) {
+  .column-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .column {
+    flex-basis: calc(33.33% - 20px); /* Adjust the width as needed */
+    margin-bottom: 40px;
+  }
+}

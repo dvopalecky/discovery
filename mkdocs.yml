@@ -1,9 +1,7 @@
-site_name: Nástroje NoPlaceLeft
+site_name: Discovery
 
 nav:
-  - Úvod: index.md
-  - Discovery: discovery.md
-  - Boží rodina: bozi-rodina.md
+  - Discovery: index.md
 
 plugins:
   - search
@@ -26,9 +24,10 @@ theme:
         name: Switch to dark mode
   features:
     - content.tooltips
+    - grids
   icon:
       annotation: material/clock-outline
-      logo: material/hammer-wrench
+      logo: material/book-open-blank-variant-outline
   favicon: favicon.ico
 
 extra_css:
@@ -38,6 +37,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  # - pymdownx.tabbed:
+  #   alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

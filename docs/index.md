@@ -1,5 +1,5 @@
-# Discovery - tvořivé čtení Bible
-Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+<div class="column-wrapper" markdown>
+<div class="column" markdown>
 
 ## Pohled zpět :material-clock-outline:{ title="20-30 min" .tretina }
 
@@ -19,6 +19,9 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 - **Ježíši, děkujeme** Ti za... vděčnosti, Ježíšovo působení
 - **Ježíši**, prosíme, **mluv k nám** dnes skrze čtení Bible
 
+</div>
+<div class="column" markdown>
+
 ## Pohled nahoru :material-clock-outline:{ title="20-30 min" .tretina }
 
 ### :material-image-filter-hdr-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
@@ -33,6 +36,8 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 - Co nám tento text říká **o Ježíši** nebo Bohu?
 - Co nám tento text říká **o lidech**?
 
+</div>
+<div class="column" markdown>
 
 ## Pohled dopředu :material-clock-outline:{ title="20-30 min" .tretina }
 
@@ -46,3 +51,6 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 
 ### :material-chat-outline: Rozhovor s Ježíšem
 - Na závěr **oslovme Ježíše**.  Kdokoli z nás, klidně jen jednou větou
+
+</div>
+</div>
