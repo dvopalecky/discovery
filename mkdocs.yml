@@ -33,6 +33,10 @@ theme:
 extra_css:
   - style.css
 
+extra_javascript:
+  - js/hammer.min.js
+  - js/swipe-tabs.js
+
 markdown_extensions:
   - attr_list
   - md_in_html
