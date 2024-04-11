@@ -44,6 +44,7 @@ li {
   color: orange;
 }
 
+
 @media screen and (orientation: landscape), screen and (min-width: 769px) {
   .column-wrapper {
     display: flex;
@@ -51,7 +52,12 @@ li {
   }
 
   .column {
-    flex-basis: calc(33.33% - 20px); /* Adjust the width as needed */
+    flex-basis: calc(33.33% - 20px);
     margin-bottom: 40px;
   }
 }
+
+/* .swiper {
+  width: 600px;
+  height: 300px;
+} */
