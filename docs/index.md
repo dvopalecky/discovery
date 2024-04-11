@@ -2,6 +2,7 @@
 Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 
 <div class="swiper" markdown>
+<div class="swiper-pagination"></div>
 <div class="column-wrapper swiper-wrapper" markdown>
 <div class="column swiper-slide" markdown>
 
