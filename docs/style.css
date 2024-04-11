@@ -46,7 +46,7 @@ li {
 
 
 .swiper-pagination-bullet {
-  width: 20px;
+  width: 100px;
   height: 20px;
   text-align: center;
   line-height: 20px;
@@ -54,6 +54,7 @@ li {
   color: #000;
   opacity: 1;
   background: rgb(201, 201, 201);
+  border-radius: 10px;
 }
 
 .swiper-pagination-bullet-active {
@@ -62,7 +63,6 @@ li {
 }
 
 .swiper-pagination {
-  /* bottom: auto; */
   top: 2px !important;
   height: 20px;
 }

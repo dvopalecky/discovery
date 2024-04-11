@@ -10,34 +10,22 @@ const swiper = new Swiper('.swiper', {
     direction: 'horizontal',
     loop: true,
 
-    // Navigation arrows
-    // navigation: {
-    //   nextEl: '.swiper-button-next',
-    //   prevEl: '.swiper-button-prev',
-    // },
-
-    // // And if we need scrollbar
-    // scrollbar: {
-    //   el: '.swiper-scrollbar',
-    // },
-
-      // If we need pagination
-    // pagination: {
-    //     el: '.swiper-pagination',
-    // },
-
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
         renderBullet: function (index, className) {
-          return '<span class="' + className + '">' + (index + 1) + "</span>";
+          return '<span class="' + className + '">' + thirdsLabels[index] + "</span>";
         },
       },
 
     breakpoints: {
         768: {
             slidesPerView: 3,
-            spaceBetween: 40
+            spaceBetween: 20
         }
     }
   });
+
+swiper.on('slideChange', function () {
+  console.log(swiper.activeIndex);
+});
