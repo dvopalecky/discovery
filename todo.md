@@ -1,24 +1,9 @@
-Roboto
-h1 - 32px, w300, uppercase
-h2 - 25px, w300, normal case
-h3 - 20px, w400
-p - 16px, w400
-li
-
+- musíme tam mít 3/3?
+- discoverybible.cz
+- use swipper.js
+.htaccess
 
 # TODO
-X improve CSS
-X less spacing
-X use better icons
-X use the latest text for Discovery
-
-- Vyhodit závorky
-- Minimalizovat uvozovky
-- minimalizovat trojtečky
-- na konci odrážky nepoužívat tečky
-- minimalizovat tečky a středníky
-
-
 
 Danny:
 detaily, zejména typografické podněty, pro všechny kartičky. Možná spíše některé věci využijeme, až když budeme dělat online apku
