@@ -71,6 +71,10 @@ li {
   margin-top: 10px;
 }
 
+footer {
+  display: none;
+}
+
 /* @media screen and (orientation: landscape), screen and (min-width: 769px) {
   .column-wrapper {
     display: flex;
@@ -81,9 +85,4 @@ li {
     flex-basis: calc(33.33% - 20px);
     margin-bottom: 40px;
   }
-} */
-
-/* .swiper {
-  width: 600px;
-  height: 300px;
 } */

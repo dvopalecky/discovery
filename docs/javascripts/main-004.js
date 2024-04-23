@@ -4,12 +4,9 @@ const thirdsLabels = [
     "Pohled dopředu"
 ]
 
-
 const swiper = new Swiper('.swiper', {
-    // Optional parameters
     direction: 'horizontal',
     loop: true,
-
     pagination: {
         el: ".swiper-pagination",
         clickable: true,

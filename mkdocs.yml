@@ -32,11 +32,11 @@ theme:
 
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
-  - style.css
+  - stylesheets/style-005.css
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
-  - js/swipe-tabs.js
+  - javascripts/main-004.js
 
 markdown_extensions:
   - attr_list
