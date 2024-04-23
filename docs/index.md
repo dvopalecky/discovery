@@ -1,5 +1,4 @@
 # Discovery - tvořivé čtení Bible
-Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 
 <div class="swiper" markdown>
 <div class="swiper-pagination"></div>
@@ -9,15 +8,13 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 ## Pohled zpět :material-clock-outline:{ title="20-30 min" .tretina }
 
 ### :material-heart-outline: Vzájemná péče
-- Jednu věc, za kterou jsme od minula **vděční**?
-- Jednu věc, která nám dělá **starosti**?
+- Za kterou jednu věc jsme od minula nejvíce **vděční**?
+- Která jedna věc nám dělá **starosti**?
 - **Ježíši, prosíme** za... konkrétní starosti
 
 ### :material-check-circle-outline: Návrat :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 
-- V jakých starostech nám **Ježíš pomohl**?
-- O čem byl **minulý příběh** - hlavní myšlenka?
-- Jak jsme ho **uplatnili**?
+- O čem byl **minulý příběh** a jak jsme ho **uplatnili** v praxi?
 - S kým jsme ho **sdíleli**?
 
 ### :material-human-handsup: Oslava Ježíše
@@ -33,11 +30,11 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás
 
 ### :material-book-open-blank-variant-outline: Bible
-- **Přečtěme si dnešní pasáž:**
-    - Jeden pomalu **nahlas čte**, ostatní sledují v textu
-    - Někdo jiný znovu **nahlas čte**, ostatní **jen naslouchají**
-    - Společně pasáž **rekapitulujeme**, nikdo se nedívá do textu
-    - Všichni v textu **prověříme správnost** rekapitulace
+- **Přečtěme si dnešní příběh.** Děláme to tak, že:
+    - jeden pomalu **nahlas čte**, ostatní sledují text
+    - někdo jiný znovu **nahlas čte**, ostatní **jen naslouchají**
+    - společně příběh **rekapitulujeme**, nikdo se nedívá do textu
+    - všichni v textu **prověříme správnost** rekapitulace
 - Co nám tento text říká **o Ježíši** nebo Bohu?
 - Co nám tento text říká **o lidech**?
 
@@ -47,16 +44,18 @@ Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamará
 ## Pohled dopředu :material-clock-outline:{ title="20-30 min" .tretina }
 
 ### :material-run-fast: Akce :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
-- Jak k nám tato pasáž mluví? Co z toho můžeme uvést do **praxe**?
+- Jak konkrétně to **uplatníme v životě**?
 - Komu by tento příběh nebo jedna myšlenka mohla pomoci? **Komu to řekneme**?
 
 ### :material-dumbbell: Procvičování :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to
-- Kdy se setkáme **příště**?
+- Kdy se setkáme **příště** a koho ještě můžeme pozvat?
 
 ### :material-chat-outline: Rozhovor s Ježíšem
-- Na závěr **oslovme Ježíše**.  Kdokoli z nás, klidně jen jednou větou
+- Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou
 
 </div>
 </div>
 </div>
+
+Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
