@@ -1,4 +1,4 @@
-# Discovery - tvořivé čtení Bible
+# Discovery - objevné čtení Bible
 
 <div class="swiper" markdown>
 <div class="swiper-pagination"></div>
@@ -58,4 +58,4 @@
 </div>
 </div>
 
-Kartu Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
