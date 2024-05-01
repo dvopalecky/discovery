@@ -35,9 +35,9 @@ li {
 }
 
 .nikdy-nevynechej {
-  padding-top: 0.15em;
-  padding-bottom: 0.05em;
   color: orange;
+  font-size: 0.8em;
+  padding-top: 0.2em;
 }
 
 .tretina {
@@ -73,6 +73,15 @@ li {
 
 footer {
   display: none;
+}
+
+.print {
+  display: none;
+}
+
+li ul li {
+  list-style-type: disc;
+  /* margin-bottom: 0 !important; */
 }
 
 /* @media screen and (orientation: landscape), screen and (min-width: 769px) {

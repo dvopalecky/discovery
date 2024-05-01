@@ -12,7 +12,7 @@
 - Která jedna věc nám dělá **starosti**?
 - **Ježíši, prosíme** za... konkrétní starosti
 
-### :material-check-circle-outline: Návrat :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+### :material-check-circle-outline: Návrat :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 
 - O čem byl **minulý příběh** a jak jsme ho **uplatnili** v praxi?
 - S kým jsme ho **sdíleli**?
@@ -26,7 +26,7 @@
 
 ## Pohled nahoru :material-clock-outline:{ title="20-30 min" .tretina }
 
-### :material-image-filter-hdr-outline: Posílení vize :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+### :material-eye-outline: Posílení vize :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás
 
 ### :material-book-open-blank-variant-outline: Bible
@@ -43,11 +43,11 @@
 
 ## Pohled dopředu :material-clock-outline:{ title="20-30 min" .tretina }
 
-### :material-run-fast: Akce :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+### :material-run-fast: Akce :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Jak konkrétně to **uplatníme v životě**?
 - Komu by tento příběh nebo jedna myšlenka mohla pomoci? **Komu to řekneme**?
 
-### :material-dumbbell: Procvičování :material-star-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
+### :material-dumbbell: Procvičování :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to
 - Kdy se setkáme **příště** a koho ještě můžeme pozvat?
 
@@ -58,4 +58,9 @@
 </div>
 </div>
 
-Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+<div class="paticka" markdown>
+<span class="print" markdown>:material-clock-outline: = 20-30 min, :material-alert-outline: = Nikdy nevynechej</span>
+<br>Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+
+<p class="print">květen 2024</print>
+</div>
