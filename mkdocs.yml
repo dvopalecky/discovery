@@ -29,6 +29,7 @@ theme:
       annotation: material/clock-outline
       logo: material/book-open-blank-variant-outline
   favicon: favicon.ico
+  custom_dir: overrides
 
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
@@ -49,4 +50,5 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
+  analytics: true
   generator: false
