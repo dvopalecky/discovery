@@ -61,8 +61,7 @@
 </div>
 
 <div class="paticka" markdown>
-<span class="print-only" markdown>:material-clock-outline: = 20-30 min, :material-alert-outline: = Nikdy nevynechej</span>
-<br>Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 
 <p class="print-only">květen 2024</p>
 </div>

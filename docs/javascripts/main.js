@@ -29,4 +29,11 @@ function setupSwiper() {
   });
 }
 
-document.addEventListener('DOMContentLoaded', setupSwiper);
+const printMode = window.location.hash.includes('#print');
+
+if (printMode) {
+  document.body.classList.add('print-mode');
+  document.body.setAttribute('data-md-color-scheme', 'default');
+} else {
+  document.addEventListener('DOMContentLoaded', setupSwiper);
+}
