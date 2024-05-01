@@ -15,6 +15,11 @@ h2 {
   border-top: 1px solid;
 }
 
+h2:after {
+  content: " (20-30 min)";
+  font-size: 0.7em;
+}
+
 h3 {
   text-transform: uppercase;
   color: var(--md-primary-fg-color);

@@ -5,7 +5,7 @@
 <div class="column-wrapper swiper-wrapper" markdown>
 <div class="column swiper-slide" markdown>
 
-## Pohled zpět :material-clock-outline:{ title="20-30 min" .tretina }
+## Pohled zpět
 
 ### :material-heart-outline: Vzájemná péče
 - Za kterou jednu věc jsme od minula nejvíce **vděční**?
@@ -24,7 +24,7 @@
 </div>
 <div class="column swiper-slide" markdown>
 
-## Pohled nahoru :material-clock-outline:{ title="20-30 min" .tretina }
+## Pohled nahoru
 
 ### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás.
@@ -41,7 +41,7 @@
 </div>
 <div class="column swiper-slide" markdown>
 
-## Pohled dopředu :material-clock-outline:{ title="20-30 min" .tretina }
+## Pohled dopředu
 
 ### :material-run-fast: Akce <span class="nikdy-nevynechej"></span>
 - Jak konkrétně to **uplatníme v životě**?
