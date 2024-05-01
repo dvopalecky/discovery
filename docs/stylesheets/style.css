@@ -34,10 +34,13 @@ li {
   margin-left: 12px !important;
 }
 
-.nikdy-nevynechej {
+span.nikdy-nevynechej {
   color: orange;
-  font-size: 0.8em;
-  padding-top: 0.2em;
+  font-size: 0.6em;
+}
+
+span.nikdy-nevynechej:after {
+  content: " Nikdy nevynechej";
 }
 
 .tretina {
