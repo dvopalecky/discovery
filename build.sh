@@ -13,3 +13,5 @@ mv site/stylesheets/style.css site/stylesheets/style-$HASH_CSS.css
 
 # Update the references for stylesheets/style.css in all site/*.html files to include the hash
 find site -type f -name "*.html" -exec sed -i '' "s/style.css/style-$HASH_CSS.css/g" {} +
+
+python post_process.py

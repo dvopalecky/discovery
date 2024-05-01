@@ -10,6 +10,7 @@
 -e file:.
 babel==2.14.0
     # via mkdocs-material
+beautifulsoup4==4.12.3
 certifi==2024.2.2
     # via requests
 charset-normalizer==3.3.2
@@ -68,6 +69,8 @@ requests==2.31.0
     # via mkdocs-material
 six==1.16.0
     # via python-dateutil
+soupsieve==2.5
+    # via beautifulsoup4
 urllib3==2.2.1
     # via requests
 watchdog==4.0.0
