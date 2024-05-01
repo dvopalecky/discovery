@@ -45,7 +45,7 @@
 
 ### :material-run-fast: Akce :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Jak konkrétně to **uplatníme v životě**?
-- Komu by tento příběh nebo jedna myšlenka mohla pomoci? **Komu to řekneme**?
+- Komu by tento příběh nebo jedna myšlenka mohly pomoci? **Komu to řekneme**?
 
 ### :material-dumbbell: Procvičování :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
