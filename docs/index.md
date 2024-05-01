@@ -19,7 +19,7 @@
 
 ### :material-human-handsup: Oslava Ježíše
 - **Ježíši, děkujeme** Ti za... vděčnosti, Ježíšovo působení
-- **Ježíši**, prosíme, **mluv k nám** dnes skrze čtení Bible
+- **Ježíši**, prosíme, **mluv k nám** dnes skrze čtení Bible.
 
 </div>
 <div class="column swiper-slide" markdown>
@@ -27,7 +27,7 @@
 ## Pohled nahoru :material-clock-outline:{ title="20-30 min" .tretina }
 
 ### :material-eye-outline: Posílení vize :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
-- **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás
+- **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás.
 
 ### :material-book-open-blank-variant-outline: Bible
 - **Přečtěme si dnešní příběh.** Děláme to tak, že:
@@ -48,11 +48,11 @@
 - Komu by tento příběh nebo jedna myšlenka mohla pomoci? **Komu to řekneme**?
 
 ### :material-dumbbell: Procvičování :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
-- Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to
+- Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
 - Kdy se setkáme **příště** a koho ještě můžeme pozvat?
 
 ### :material-chat-outline: Rozhovor s Ježíšem
-- Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou
+- Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou.
 
 </div>
 </div>
