@@ -88,12 +88,8 @@ article li ul li {
   margin-top: 0;
 }
 
-.md-nav__list {
-  display: none;
-}
-
-label.md-header__button.md-icon[for="__search"] {
-  display: none;
+.md-nav__list, .md-sidebar--secondary, label.md-header__button.md-icon[for="__search"], .md-search, #__search {
+  display: none !important;
 }
 
 @media screen and (orientation: landscape), screen and (min-width: 769px) {
