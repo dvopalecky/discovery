@@ -1,7 +1,11 @@
-- musíme tam mít 3/3?
-- discoverybible.cz
-- use swipper.js
-.htaccess
+- verze k tisku
+  - ideálně tak, aby to fungovalo automaticky
+
+# vylepšení
+- mobil: nefunguje klikání na oranzove ikonky
+- mobil: jak funguje landscape mode
+- patička - mít jí úplně na konci (problem pokud je moc vysoka)
+- text je dost malý - mít nějakou možnost zvětšení písma?
 
 # TODO
 
