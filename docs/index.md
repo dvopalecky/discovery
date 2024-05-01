@@ -49,10 +49,12 @@
 
 ### :material-dumbbell: Procvičování :material-alert-outline:{ title="Nikdy nevynechej" .nikdy-nevynechej }
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
-- Kdy se setkáme **příště** a koho ještě můžeme pozvat?
+- Kdo nám řekne **příběh**, jak pozval Ježíše do svého života, nebo nakreslí **ilustraci**, jak navázat vztah s Ježíšem?
 
 ### :material-chat-outline: Rozhovor s Ježíšem
 - Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou.
+- Kdy se setkáme **příště**?
+- Koho ještě můžeme **pozvat**?
 
 </div>
 </div>
