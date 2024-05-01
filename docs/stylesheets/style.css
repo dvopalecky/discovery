@@ -79,13 +79,21 @@ footer {
   display: none;
 }
 
-li ul li {
+article li ul li {
   list-style-type: disc;
   /* margin-bottom: 0 !important; */
 }
 
-/* @media screen and (orientation: landscape), screen and (min-width: 769px) {
-  .column-wrapper {
+.md-nav__list {
+  display: none;
+}
+
+label.md-header__button.md-icon[for="__search"] {
+  display: none;
+}
+
+@media screen and (orientation: landscape), screen and (min-width: 769px) {
+  /* .column-wrapper {
     display: flex;
     justify-content: space-between;
   }
@@ -93,5 +101,5 @@ li ul li {
   .column {
     flex-basis: calc(33.33% - 20px);
     margin-bottom: 40px;
-  }
-} */
+  } */
+}
