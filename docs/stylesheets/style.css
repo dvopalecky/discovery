@@ -96,6 +96,31 @@ article li ul li {
   /* margin-bottom: 0 !important; */
 }
 
+article hr {
+  margin-top: 0.6rem !important;
+  margin-bottom: 0.6rem !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.13) !important;
+}
+
+.paticka-narrow {
+  display: block;
+}
+
+.paticka-wide {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .paticka-narrow {
+    display: none;
+  }
+
+  .paticka-wide {
+    display: block;
+  }
+}
+
+
 .md-main__inner.md-grid {
   margin-top: 0;
 }
@@ -116,16 +141,20 @@ article li ul li {
   display: block;
 }
 
+.print-mode .no-print {
+  display: none;
+}
+
 .print-mode article {
   width: 210mm;
   height: 148mm;
-  border: 1px solid #000; /* Adds a black border around the div */
+  border: 1px solid #000;
   margin: 1px !important;
   padding: 7mm !important;
-  overflow: visible; /* Ensures no content spills outside */
-  background: #fff; /* Optional: ensures the background is white */
+  overflow: visible;
+  background: #fff;
   transform: scale(1);
-  transform-origin: top left; /* Keeps the div top-left aligned when scaled */
+  transform-origin: top left;
   font-size: 0.7rem !important;
   filter: grayscale(100%);
   display: flex;

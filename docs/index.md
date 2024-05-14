@@ -56,12 +56,17 @@
 - Kdy se setkáme **příště**?
 - Koho ještě můžeme **pozvat**?
 
-</div>
-</div>
-</div>
-
-<div class="paticka" markdown>
+<div class="paticka-narrow" markdown>
+<hr>
 Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+</div>
 
+</div>
+</div>
+</div>
+
+<div class="paticka-wide" markdown>
+<hr>
+Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 <p class="print-only">květen 2024</p>
 </div>
