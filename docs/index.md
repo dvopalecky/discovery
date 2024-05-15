@@ -49,7 +49,7 @@
 
 ### :material-dumbbell: Procvičování <span class="nikdy-nevynechej"></span>
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
-- Kdo nám řekne **příběh**, jak pozval Ježíše do svého života, nebo nakreslí **ilustraci**, jak navázat vztah s Ježíšem?
+- Mohl by nám někdo říct **příběh**, jak pozval Ježíše do svého života, nebo nakreslit **ilustraci**, jak navázat vztah s Ježíšem?
 
 ### :material-chat-outline: Rozhovor s Ježíšem
 - Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou.
