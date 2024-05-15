@@ -99,7 +99,7 @@ article li ul li {
 article hr {
   margin-top: 0.6rem !important;
   margin-bottom: 0.6rem !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.13) !important;
+  border-bottom: 1px solid #aaa !important;
 }
 
 .paticka-narrow {
