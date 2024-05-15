@@ -141,7 +141,7 @@ article hr {
   display: block;
 }
 
-.print-mode .no-print {
+.print-mode .paticka-wide hr {
   display: none;
 }
 
@@ -227,22 +227,22 @@ article hr {
   background-color: #fff;
 }
 
-.print-mode .paticka {
+.print-mode .paticka-wide {
   margin-top: auto;
   display: flex;
 }
 
-.print-mode .paticka p {
+.print-mode .paticka-wide p {
   margin: 0;
   font-size: 0.8em;
 }
 
-.print-mode .paticka p:first-child {
+.print-mode .paticka-wide p:first-child {
   flex: 3;
   text-align: left;
 }
 
-.print-mode .paticka p:last-child {
+.print-mode .paticka-wide p:last-child {
   flex: 1;
   text-align: right;
   margin-top: auto;
