@@ -15,7 +15,7 @@ h2 {
   border-top: 1px solid;
 }
 
-h2:after {
+#discovery-main h2:after {
   content: " (20-30 min)";
   font-size: 0.7em;
 }
@@ -48,14 +48,9 @@ span.nikdy-nevynechej:after {
   content: " Nikdy nevynechej";
 }
 
-/* .nikdy-nevynechej::after {
-  content: "nevynechej";
-} */
-
 .tretina {
   color: orange;
 }
-
 
 .swiper-pagination-bullet {
   width: 100px;
@@ -125,7 +120,28 @@ article hr {
   margin-top: 0;
 }
 
-.md-nav__list, .md-sidebar--secondary, label.md-header__button.md-icon[for="__search"], .md-search, #__search {
+/* Hide Table of Contents */
+.md-nav__list li label {
+  display: none !important;
+}
+.md-nav__list li a {
+  display: block !important;
+}
+
+
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+label.md-header__button.md-icon[for="__search"] {
+  display: none !important;
+}
+
+.md-search {
+  display: none !important;
+}
+
+#__search {
   display: none !important;
 }
 

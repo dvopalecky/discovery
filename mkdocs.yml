@@ -14,17 +14,19 @@ theme:
       primary: light blue
       accent: light blue
       toggle:
-        icon: material/brightness-7
-        name: Switch to light mode
+        icon: material/brightness-4
+        name: Tmavý režim
     - scheme: slate
       primary: light blue
       accent: light blue
       toggle:
-        icon: material/brightness-4
-        name: Switch to dark mode
+        icon: material/brightness-7
+        name: Světlý režim
   features:
     - content.tooltips
     - grids
+    - navigation.instant
+    - navigation.instant.prefetch
   icon:
       annotation: material/clock-outline
       logo: material/book-open-blank-variant-outline

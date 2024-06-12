@@ -1,3 +1,7 @@
+<script>
+  document.querySelector('.md-content').id = "discovery-main";
+</script>
+
 # Discovery - objevné čtení Bible
 
 <div class="swiper" markdown>
