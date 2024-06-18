@@ -1,10 +1,8 @@
-# Discovery může začít kdokoli
-
-### Jak začít?
-1. Přizvi parťáka, který je taky nadšený pro Discovery, pokud takového najdeš.
+### Jak začít
+1. Discovery může začít kdokoli. Přizvi parťáka, který je taky nadšený pro Discovery.
 2. Udělejte si širší seznam známých a proste za ně Ježíše.
-3. Stanovte datum a místo prvního Discovery. Setkání dělejte pravidelně ve stejný den týdne, ať se to lépe pamatuje.
-4. Pozvěte lidi. Zvětě je opakovaně. Procvičte si, co jim řeknete:
+3. Stanovte datum a místo prvního Discovery. Setkání dělejte pravidelně.
+4. Pozvěte lidi. Zvěte je opakovaně. Procvičte si, co jim řeknete:
     - Ahoj Jirko, zkoušel jsi někdy číst Bibli? Nemyslím náboženství ani církev, prostě Bibli.
     - S kamarády děláme takové objevné čtení Bible. Sejdeme se v kavárně nebo u někoho doma. Zhruba na hodinu a půl.
     - Řekneme si, jak se máme, z Bible si spolu přečteme krátký příběh o Ježíši a bavíme se o tom.
@@ -18,5 +16,5 @@
 ### Tipy
 - Zajisti Bible, nebo čtený úsek pro každého vytiskni, nebo použijte mobilní aplikaci (např. [YouVersion](https://www.bible.com/app)).
 - Při hledání pasáže říkej taky číslo stránky.
-- Snažte se, aby každou třetinu podle kartičky provázel někdo jiný. Od 3. setkání nechte provázet i nové účastníky. Dej jim kartičku na provázení, ať můžou číst otázky.
+- Snažte se, aby každou třetinu provázel někdo jiný. Od třetího setkání nechte provázet i nové účastníky. Dejte jim poznámky pro provázení Discovery, ať můžou číst otázky.
 - Občas se stane, že nikdo nepřijde. To je příležitost mluvit s Ježíšem a pozvat další lidi.

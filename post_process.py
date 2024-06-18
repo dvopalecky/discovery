@@ -38,3 +38,6 @@ def postprocess_html(directory: str):
 
 # Example usage
 postprocess_html("site")
+postprocess_html("site/jak-zacit-discovery")
+postprocess_html("site/texty-ke-cteni")
+postprocess_html("site/jak-zacit-discovery-print")

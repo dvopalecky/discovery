@@ -2,7 +2,7 @@ site_name: Discovery
 
 nav:
   - Discovery: index.md
-  - Discovery může začít kdokoliv: discovery-jak-zacit.md
+  - Jak začít Discovery: jak-zacit-discovery.md
   - Texty ke čtení: texty-ke-cteni.md
 
 theme:
