@@ -25,7 +25,11 @@ h3 {
   color: var(--md-primary-fg-color);
 }
 
-ul {
+h4 {
+  margin-top: 0px !important;
+}
+
+ul, ol {
   margin-bottom: 0px !important;
 }
 
@@ -202,14 +206,18 @@ label.md-header__button.md-icon[for="__search"] {
 }
 
 .print-mode h3 {
-  color: #026acc !important;
   margin-top: 0.3rem !important;
   margin-bottom: 0.1rem !important;
   font-size: 0.8rem !important;
   color: #000 !important;
 }
 
-.print-mode ul {
+.print-mode h4 {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0.1rem !important;
+}
+
+.print-mode ul, ol {
   margin-top: 0rem !important;
 }
 
@@ -230,16 +238,36 @@ label.md-header__button.md-icon[for="__search"] {
   justify-content: space-between;
 }
 
-.print-mode .column:nth-child(1) {
+.print-mode #discovery-main .column:nth-child(1) {
   flex-basis: calc(31% - 14px);
 }
 
-.print-mode .column:nth-child(2) {
+.print-mode #discovery-main .column:nth-child(2) {
   flex-basis: calc(33% - 14px);
 }
 
-.print-mode .column:nth-child(3) {
+.print-mode #discovery-main .column:nth-child(3) {
   flex-basis: calc(36% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(1) {
+  flex-basis: calc(60% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+/* .print-mode #discovery-2nd-page .column:nth-child(3) {
+  flex-basis: calc(25% - 14px);
+} */
+
+.print-mode #discovery-2nd-page a {
+  color: #000 !important;
+}
+
+.print-mode #discovery-2nd-page p:has(img) {
+  margin-top: 0 !important;
 }
 
 .print-mode body {
