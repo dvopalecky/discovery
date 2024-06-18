@@ -35,8 +35,11 @@ p, li {
 
 li {
   margin-bottom: 0.4em !important;
-  list-style-type: none;
   margin-left: 12px !important;
+}
+
+#discovery-main li {
+  list-style-type: none;
 }
 
 span.nikdy-nevynechej {
