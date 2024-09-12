@@ -13,7 +13,7 @@ def postprocess_html(directory: str):
         directory (str): The directory path containing HTML files to be processed.
 
     Example:
-        postprocess_html('site')
+        postprocess_html('dist')
     """
     for filename in os.listdir(directory):
         if filename.endswith(".html"):
@@ -37,7 +37,7 @@ def postprocess_html(directory: str):
 
 
 # Example usage
-postprocess_html("site")
-postprocess_html("site/jak-zacit-discovery")
-postprocess_html("site/texty-ke-cteni")
-postprocess_html("site/jak-zacit-discovery-print")
+postprocess_html("dist")
+postprocess_html("dist/jak-zacit-discovery")
+postprocess_html("dist/texty-ke-cteni")
+postprocess_html("dist/jak-zacit-discovery-print")

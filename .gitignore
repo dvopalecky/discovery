@@ -1,7 +1,8 @@
 .venv
 .DS_Store
-html/*
-site
 out
 other
 todo.md
+node_modules
+dist
+wip

@@ -2,18 +2,20 @@
 This is an app for Discovery Bible study and similar tools.
 It's supposed to be as a web app, but also have css and settings to print (probably only during the build step)
 
+# Requirements
+- UNIX based development environment
+
 # Installation
 - `pip install mkdocs mkdocs-material`
-- `mkdocs serve`
-- open localhost:8000
+
+# Run locally
+- `./dev.sh discovery` or `./dev.sh krokysjezisem`
 
 # Build
-- `./build.sh`
+- `./build.sh discovery` or `./build.sh krokysjezisem`
 
 # Deploy
 - `./build.sh`
-- `cd site`
-- `vercel --prod`
 
 # Create PDF manually
 - ...

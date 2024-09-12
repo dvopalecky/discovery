@@ -1,4 +1,5 @@
 site_name: Discovery
+site_dir: ../dist
 
 nav:
   - Discovery: index.md
