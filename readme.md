@@ -1,3 +1,7 @@
+# About
+This is an app for Discovery Bible study and similar tools.
+It's supposed to be as a web app, but also have css and settings to print (probably only during the build step)
+
 # Installation
 - `pip install mkdocs mkdocs-material`
 - `mkdocs serve`
