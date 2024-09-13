@@ -1,0 +1,55 @@
+site_name: Kroky s Ježíšem
+site_dir: ../../dist
+
+nav:
+  - Setkání Boží rodiny: index.md
+  - Tipy pro posílení vize: tipy-pro-posileni-vize.md
+
+theme:
+  name: material
+  language: cs
+  palette:
+    - scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Tmavý režim
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Světlý režim
+  features:
+    - content.tooltips
+    - grids
+    - navigation.instant
+    - navigation.instant.prefetch
+  icon:
+      annotation: material/clock-outline
+      logo: material/book-open-blank-variant-outline
+  favicon: favicon.ico
+  custom_dir: overrides
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+  - stylesheets/style.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+  - javascripts/main.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  analytics: true
+  generator: false
