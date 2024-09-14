@@ -16,6 +16,7 @@ def generate_pdf(name, url, format, path, page_setup):
         page_setup(page)
         page.pdf(path=path, format=format)
         browser.close()
+        print(f"Generated {path}")
 
 
 def a4_setup(page):
@@ -59,7 +60,7 @@ def a6_4x_setup(page):
         @media print {
             @page { size: A4 landscape; }
         }
-        div.md-content {
+        .print-mode div.md-content {
             grid-template-columns: repeat(2, 1fr);
         }
         `;
@@ -71,15 +72,15 @@ def main():
     parser = argparse.ArgumentParser(description="Generate PDFs from a webpage")
     parser.add_argument("name", help="Base name for the output PDFs")
     parser.add_argument(
-        "--url",
-        default="http://localhost:8000/#print",
-        help="URL to generate PDFs from",
+        "port", type=int, default=8001, help="Port number for the local server"
     )
     args = parser.parse_args()
 
-    generate_pdf(args.name, args.url, "a5", f"{args.name}-a4.pdf", a4_setup)
-    generate_pdf(args.name, args.url, "a4", f"{args.name}-a5-2x.pdf", a5_2x_setup)
-    generate_pdf(args.name, args.url, "a4", f"{args.name}-a6-4x.pdf", a6_4x_setup)
+    url = f"http://localhost:{args.port}/#print"
+
+    generate_pdf(args.name, url, "a5", f"{args.name}-a4.pdf", a4_setup)
+    generate_pdf(args.name, url, "a4", f"{args.name}-a5-2x.pdf", a5_2x_setup)
+    generate_pdf(args.name, url, "a4", f"{args.name}-a6-4x.pdf", a6_4x_setup)
 
 
 if __name__ == "__main__":

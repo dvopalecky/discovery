@@ -9,7 +9,6 @@ cd src
 cd "$1"
 
 mkdocs build
-
 cd ../..
 
 # Calculate the hash of main.js and rename it with the hash appended
@@ -27,3 +26,13 @@ mv dist/stylesheets/style.css dist/stylesheets/style-$HASH_CSS.css
 find dist -type f -name "*.html" -exec sed -i '' "s/style.css/style-$HASH_CSS.css/g" {} +
 
 python post_process.py
+
+PORT=8001
+python -m http.server $PORT --directory dist &
+SERVER_PID=$!
+python print.py $1 $PORT
+echo "Waiting for server to finish"
+kill $SERVER_PID
+mv $1-a4.pdf dist/
+mv $1-a5-2x.pdf dist/
+mv $1-a6-4x.pdf dist/

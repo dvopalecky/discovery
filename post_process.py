@@ -15,6 +15,8 @@ def postprocess_html(directory: str):
     Example:
         postprocess_html('dist')
     """
+    if not os.path.exists(directory):
+        return
     for filename in os.listdir(directory):
         if filename.endswith(".html"):
             filepath = os.path.join(directory, filename)
@@ -41,3 +43,4 @@ postprocess_html("dist")
 postprocess_html("dist/jak-zacit-discovery")
 postprocess_html("dist/texty-ke-cteni")
 postprocess_html("dist/jak-zacit-discovery-print")
+postprocess_html("dist/tipy-pro-posileni-vize")

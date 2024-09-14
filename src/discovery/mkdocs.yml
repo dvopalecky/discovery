@@ -1,5 +1,5 @@
 site_name: Discovery
-site_dir: ../dist
+site_dir: ../../dist
 
 nav:
   - Discovery: index.md
@@ -36,6 +36,7 @@ theme:
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
   - stylesheets/style.css
+  - stylesheets/print.css
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
