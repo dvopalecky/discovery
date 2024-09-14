@@ -30,9 +30,10 @@ python post_process.py
 PORT=8001
 python -m http.server $PORT --directory dist &
 SERVER_PID=$!
-python print.py $1 $PORT
+python print_pdf.py $1 $PORT
 echo "Waiting for server to finish"
 kill $SERVER_PID
-mv $1-a4.pdf dist/
-mv $1-a5-2x.pdf dist/
-mv $1-a6-4x.pdf dist/
+mkdir -p dist/pdf
+mv $1-a4.pdf dist/pdf/
+mv $1-a5-2x.pdf dist/pdf/
+mv $1-a6-4x.pdf dist/pdf/

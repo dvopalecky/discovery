@@ -5,6 +5,7 @@ nav:
   - Discovery: index.md
   - Jak začít Discovery: jak-zacit-discovery.md
   - Texty ke čtení: texty-ke-cteni.md
+  - Kartičky k tisku: karticky-k-tisku.md
 
 theme:
   name: material
