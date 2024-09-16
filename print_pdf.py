@@ -74,9 +74,10 @@ def main():
     parser.add_argument(
         "port", type=int, default=8001, help="Port number for the local server"
     )
+    parser.add_argument("path", type=str, default="", help="path to the page")
     args = parser.parse_args()
 
-    url = f"http://localhost:{args.port}/#print"
+    url = f"http://localhost:{args.port}/{args.path}/#print"
 
     generate_pdf(args.name, url, "a5", f"{args.name}-a4.pdf", a4_setup)
     generate_pdf(args.name, url, "a4", f"{args.name}-a5-2x.pdf", a5_2x_setup)

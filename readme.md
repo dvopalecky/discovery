@@ -13,9 +13,10 @@ It's supposed to be as a web app, but also have css and settings to print (proba
 
 # Build
 - `./build.sh discovery` or `./build.sh krokysjezisem`
+- `./build_and_print.sh discovery`
 
 # Deploy
-- `./build.sh`
+- `./deploy.sh`
 
 # Create PDF manually
 - ...
