@@ -14,7 +14,7 @@
 ### :material-heart-outline: Vzájemná péče
 - Za kterou jednu věc jsme od minula nejvíce **vděční**?
 - Která jedna věc nám dělá **starosti**?
-- **Ježíši, prosíme** za... konkrétní starosti
+- **Ježíši, prosíme** za... konkrétní starosti.
 
 ### :material-check-circle-outline: Návrat <span class="nikdy-nevynechej"></span>
 
@@ -34,12 +34,12 @@
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás.
 
 ### :material-book-open-blank-variant-outline: Bible
-- **Přečtěme si dnešní příběh.** Děláme to tak, že:
-    - jeden pomalu **nahlas čte**, ostatní sledují text
-    - někdo jiný znovu **nahlas čte**, ostatní **jen naslouchají**
-    - společně příběh **rekapitulujeme**, nikdo se nedívá do textu
-    - všichni v textu **prověříme správnost** rekapitulace
-- Co nám tento text říká **o Ježíši** nebo Bohu?
+- **Přečtěme si dnešní příběh:**
+    - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
+    - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
+    - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
+    - Všichni **prověřme správnost** textu.
+- Co tento text říká **o Ježíši** nebo o Bohu?
 - Co nám tento text říká **o lidech**?
 
 </div>
@@ -72,5 +72,5 @@ Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 <div class="paticka-wide" markdown>
 <hr>
 Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
-<p class="print-only">květen 2024</p>
+<p class="print-only">září 2024</p>
 </div>
