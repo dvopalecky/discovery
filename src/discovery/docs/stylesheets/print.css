@@ -93,6 +93,7 @@ body.print-mode {
 
 .print-mode li ul li {
   margin-bottom: 0 !important;
+  list-style-type: disc !important;
 }
 
 .print-mode .nikdy-nevynechej, .print-mode .tretina {
@@ -109,11 +110,11 @@ body.print-mode {
 }
 
 .print-mode #discovery-main .column:nth-child(1) {
-  flex-basis: calc(31% - 14px);
+  flex-basis: calc(29% - 14px);
 }
 
 .print-mode #discovery-main .column:nth-child(2) {
-  flex-basis: calc(33% - 14px);
+  flex-basis: calc(35% - 14px);
 }
 
 .print-mode #discovery-main .column:nth-child(3) {
