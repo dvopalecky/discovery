@@ -25,6 +25,7 @@ if [ "$1" == "discovery" ]; then
     qpdf --empty --pages discovery-a4.pdf discovery-2-a4.pdf -- dist/pdf/discovery-a4.pdf
     qpdf --empty --pages discovery-a5-2x.pdf discovery-2-a5-2x.pdf -- dist/pdf/discovery-a5-2x.pdf
     qpdf --empty --pages discovery-a6-4x.pdf discovery-2-a6-4x.pdf -- dist/pdf/discovery-a6-4x.pdf
+    rm discovery-a4.pdf discovery-2-a4.pdf discovery-a5-2x.pdf discovery-2-a5-2x.pdf discovery-a6-4x.pdf discovery-2-a6-4x.pdf
 else
     mv ./*.pdf dist/pdf
 fi
