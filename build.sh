@@ -8,7 +8,7 @@ fi
 cd src
 cd "$1"
 
-mkdocs build
+rye run mkdocs build
 cd ../..
 
 # Calculate the hash of main.js and rename it with the hash appended
@@ -32,4 +32,4 @@ mv dist/stylesheets/print.css dist/stylesheets/print-$HASH_PRINT.css
 # Update the references for stylesheets/print.css in all dist/*.html files to include the hash
 find dist -type f -name "*.html" -exec sed -i '' "s/print.css/print-$HASH_PRINT.css/g" {} +
 
-python post_process.py
+rye run python post_process.py

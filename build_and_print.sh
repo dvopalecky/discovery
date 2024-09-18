@@ -3,14 +3,14 @@
 ./build.sh $1
 
 PORT=8001
-python -m http.server $PORT --directory dist &
+rye run python -m http.server $PORT --directory dist &
 SERVER_PID=$!
 
 if [ "$1" == "discovery" ]; then
-    python print_pdf.py discovery $PORT ""
-    python print_pdf.py discovery-2 $PORT jak-zacit-discovery-print
+    rye run python print_pdf.py discovery $PORT ""
+    rye run python print_pdf.py discovery-2 $PORT jak-zacit-discovery-print
 else
-    python print_pdf.py $1 $PORT
+    rye run python print_pdf.py $1 $PORT
 fi
 
 

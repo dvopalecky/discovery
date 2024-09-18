@@ -9,4 +9,4 @@ fi
 
 cd src
 cd "$1"
-mkdocs serve
+rye run mkdocs serve
