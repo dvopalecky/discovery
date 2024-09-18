@@ -25,4 +25,11 @@ mv dist/stylesheets/style.css dist/stylesheets/style-$HASH_CSS.css
 # Update the references for stylesheets/style.css in all dist/*.html files to include the hash
 find dist -type f -name "*.html" -exec sed -i '' "s/style.css/style-$HASH_CSS.css/g" {} +
 
+# Calculate the hash of print.css and rename it with the hash appended
+HASH_PRINT=$(openssl dgst -md5 dist/stylesheets/print.css | awk '{print substr($2, 1, 8)}')
+mv dist/stylesheets/print.css dist/stylesheets/print-$HASH_PRINT.css
+
+# Update the references for stylesheets/print.css in all dist/*.html files to include the hash
+find dist -type f -name "*.html" -exec sed -i '' "s/print.css/print-$HASH_PRINT.css/g" {} +
+
 python post_process.py
