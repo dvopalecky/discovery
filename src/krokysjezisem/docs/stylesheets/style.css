@@ -277,11 +277,7 @@ span.screen-only {
 }
 
 .print-mode #posileni-vize .column:nth-child(1) {
-  flex-basis: calc(35% - 14px);
-}
-
-.print-mode #posileni-vize .column:nth-child(2) {
-  flex-basis: calc(65% - 14px);
+  flex-basis: calc(100% - 14px);
 }
 
 .print-mode #discovery-2nd-page .column:nth-child(1) {
