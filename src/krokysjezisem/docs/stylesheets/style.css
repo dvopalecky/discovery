@@ -164,6 +164,14 @@ label.md-header__button.md-icon[for="__search"] {
   display: none !important;
 }
 
+span.screen-only {
+  display: inline;
+}
+
+.print-mode span.screen-only {
+  display: none;
+}
+
 .print-mode label.md-overlay[for="__drawer"],
 .print-mode div[data-md-component="skip"],
 .print-mode div[data-md-component="announce"],
@@ -174,6 +182,10 @@ label.md-header__button.md-icon[for="__search"] {
 
 .print-mode .print-only {
   display: block;
+}
+
+.print-mode span.print-only {
+  display: none;
 }
 
 .print-mode .paticka-wide hr {

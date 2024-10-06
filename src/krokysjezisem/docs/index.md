@@ -32,11 +32,12 @@
 
 ### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
 - Jako Boží rodina, tedy církev,
-    - **společně rosteme v oddanosti** Ježíši,
+    - **společně rosteme** v oddanosti Ježíši,
     - sobě navzájem,
     - v získávání a budování učedníků
     - a usilujeme o vznik dalších Božích rodin.
-- (Podrobnější tipy pro posílení vize najdete na druhé straně kartičky.)
+- <span class="screen-only">(Viz „[Posílení vize](/tipy-pro-posileni-vize)“ v menu)</span>
+- <span class="print-only">(Viz „Posílení vize“ na druhé straně kartičky.)</span>
 
 
 ### :material-book-open-blank-variant-outline: Bible / Nové téma
