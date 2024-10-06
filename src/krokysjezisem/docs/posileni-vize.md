@@ -15,7 +15,7 @@
 
 ### Tipy
 - Přečtěme si Skutky 2,36–47 a všichni si nakresleme kruh církve.
-<br><img src="../images/kruh-cirkve.png" alt="Kruh církve" style="width:100%;max-width:200px;margin-top:0;"/>
+<br><img src="../images/kruh-cirkve.png" alt="Kruh církve" style="width:100%;max-width:200px;margin-top:0;float:none;"/>
 
 - Přečtěme si krátký text a chvilku společně přemýšlejme, jak k nám skrze něj Ježíš mluví. Příklady podle oblastí vize:
     - oddanost Ježíši:

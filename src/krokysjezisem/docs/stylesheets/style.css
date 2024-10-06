@@ -326,20 +326,40 @@ span.screen-only {
 }
 
 /* Targeting the third level li elements */
-ul ul ul {
-  list-style-type: none; /* Remove bullets */
-  padding-left: 0; /* Adjust as needed */
+.print-mode ul ul ul {
+  list-style-type: none;
+  padding-left: 0;
+  display: inline !important;
 }
 
-ul ul ul > li {
-  display: inline; /* Display inline */
+.print-mode ul ul ul > li {
+  display: inline;
   margin-left: 0 !important;
 }
 
-ul ul ul > li::after {
+.print-mode ul ul ul > li::after {
   content: ", "; /* Add a comma and space after each item */
 }
 
-ul ul ul > li:last-child::after {
+.print-mode ul ul ul > li:last-child::after {
   content: ""; /* Remove the comma after the last item */
 }
+
+/* .print-mode h3#tipy + ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 0;
+}
+
+.print-mode h3#tipy + ul > li {
+  flex-basis: calc(33.33% - 10px);
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+
+@media (max-width: 600px) {
+  .print-mode h3#tipy + ul > li {
+    flex-basis: 100%;
+  }
+} */
