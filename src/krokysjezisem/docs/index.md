@@ -36,7 +36,7 @@
     - sobě navzájem,
     - v získávání a budování učedníků
     - a usilujeme o vznik dalších Božích rodin.
-- <span class="screen-only">(Viz „[Posílení vize](/tipy-pro-posileni-vize)“ v menu)</span>
+- <span class="screen-only">(Viz „[Posílení vize](/posileni-vize)“ v menu)</span>
 - <span class="print-only">(Viz „Posílení vize“ na druhé straně kartičky.)</span>
 
 

@@ -3,7 +3,7 @@ site_dir: ../../dist
 
 nav:
   - Setkání Boží rodiny: index.md
-  - Tipy pro posílení vize: tipy-pro-posileni-vize.md
+  - Posílení vize: posileni-vize.md
 
 theme:
   name: material

@@ -276,11 +276,11 @@ span.screen-only {
   flex-basis: calc(35% - 14px);
 }
 
-.print-mode #tipy-pro-posileni-vize .column:nth-child(1) {
+.print-mode #posileni-vize .column:nth-child(1) {
   flex-basis: calc(35% - 14px);
 }
 
-.print-mode #tipy-pro-posileni-vize .column:nth-child(2) {
+.print-mode #posileni-vize .column:nth-child(2) {
   flex-basis: calc(65% - 14px);
 }
 

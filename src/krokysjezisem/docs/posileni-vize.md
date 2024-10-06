@@ -1,5 +1,5 @@
 <script>
-  document.querySelector('.md-content').id = "tipy-pro-posileni-vize";
+  document.querySelector('.md-content').id = "posileni-vize";
 </script>
 
 <div class="column-wrapper" markdown>
