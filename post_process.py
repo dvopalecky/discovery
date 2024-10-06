@@ -34,6 +34,11 @@ def postprocess_html(directory: str):
                     )
                     text.replace_with(updated_text)
 
+            # Replace en-dash between digits with en-dash + zero-width non-breaking space
+            for element in soup.find_all(string=re.compile(r"\d–\d")):
+                updated_text = re.sub(r"(\d)–(\d)", r"\1﻿–﻿\2", element)
+                element.replace_with(updated_text)
+
             with open(filepath, "w", encoding="utf-8") as file:
                 file.write(str(soup))
 
@@ -41,6 +46,6 @@ def postprocess_html(directory: str):
 # Example usage
 postprocess_html("dist")
 postprocess_html("dist/jak-zacit-discovery")
-postprocess_html("dist/texty-ke-cteni")
 postprocess_html("dist/jak-zacit-discovery-print")
+postprocess_html("dist/texty-ke-cteni")
 postprocess_html("dist/posileni-vize")
