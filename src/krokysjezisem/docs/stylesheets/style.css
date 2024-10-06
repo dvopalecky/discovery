@@ -204,7 +204,6 @@ span.screen-only {
   transform-origin: top left;
   font-size: 0.7rem !important;
   font-size: 0.67rem !important;
-  filter: grayscale(100%);
   display: flex;
   flex-direction: column;
   color: #000 !important;
@@ -277,7 +276,15 @@ span.screen-only {
 }
 
 .print-mode #posileni-vize .column:nth-child(1) {
-  flex-basis: calc(100% - 14px);
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(3) {
+  flex-basis: calc(29% - 14px);
 }
 
 .print-mode #discovery-2nd-page .column:nth-child(1) {
@@ -325,23 +332,47 @@ span.screen-only {
   margin-top: auto;
 }
 
-/* Targeting the third level li elements */
-.print-mode ul ul ul {
-  list-style-type: none;
-  padding-left: 0;
-  display: inline !important;
+.print-mode article > p {
+  margin-block-end: 0.3em;
+}
+.print-mode #vize-obecna p {
+  display: inline;
 }
 
-.print-mode ul ul ul > li {
+.print-mode #vize-obecna ul {
   display: inline;
+  margin-left: 0;
+}
+
+.print-mode #vize-obecna ul li {
+  list-style-type: none !important;
+  display: inline;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.print-mode h3#tipy {
+  /* margin-top: 0 !important; */
+}
+
+/* Targeting the third level li elements */
+.print-mode #posileni-vize ul ul ul {
+  list-style-type: none;
+  padding-left: 0;
   margin-left: 0 !important;
 }
 
-.print-mode ul ul ul > li::after {
+.print-mode #posileni-vize ul ul ul > li {
+  display: inline-flex;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.print-mode #posileni-vize ul ul ul > li::after {
   content: ", "; /* Add a comma and space after each item */
 }
 
-.print-mode ul ul ul > li:last-child::after {
+.print-mode #posileni-vize ul ul ul > li:last-child::after {
   content: ""; /* Remove the comma after the last item */
 }
 
