@@ -31,7 +31,11 @@
 ## Pohled nahoru
 
 ### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
-- Jako Boží rodina, tedy církev, **rosteme v oddanosti** Ježíši, sobě navzájem a získávání a budování učedníků.
+- Jako Boží rodina, tedy církev,
+    - **společně rosteme v oddanosti** Ježíši,
+    - sobě navzájem,
+    - v získávání a budování učedníků
+    - a usilujeme o vznik dalších Božích rodin.
 - (Podrobnější tipy pro posílení vize najdete na druhé straně kartičky.)
 
 
