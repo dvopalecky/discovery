@@ -368,6 +368,10 @@ span.screen-only {
   padding: 0 !important;
 }
 
+.print-mode #posileni-vize ul ul ul > li a {
+  color: #000 !important;
+}
+
 .print-mode #posileni-vize ul ul ul > li::after {
   content: ", "; /* Add a comma and space after each item */
 }
