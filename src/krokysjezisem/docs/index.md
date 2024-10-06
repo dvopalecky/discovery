@@ -18,12 +18,12 @@
 
 ### :material-check-circle-outline: Návrat <span class="nikdy-nevynechej"></span>
 
-- K čemu nás Ježíš minule vedl a jak jsme to **uplatnili** v praxi?
-- Jak jsme **sdíleli Ježíše** a pomáhali učedníkům v růstu?
+- K čemu nás Ježíš minule vedl a jak jsme to **uplatnili** v praxi?
+- Jak jsme **sdíleli Ježíše** a pomáhali učedníkům v růstu?
 
 ### :material-human-handsup: Oslava Ježíše
-- Připomeňme si teď **Ježíšovu oběť** chlebem a červeným nápojem.
-- **Děkujme Mu** za to, jaký je a co pro nás udělal: slovy, kouskem z Bible, písněmi, štědrostí…
+- Připomeňme si teď **Ježíšovu oběť** chlebem a červeným nápojem.
+- **Děkujme Mu** za to, jaký je a co pro nás udělal: slovy, kouskem z Bible, písněmi, štědrostí…
 
 </div>
 <div class="column swiper-slide" markdown>
@@ -32,21 +32,21 @@
 
 ### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
 - Jako Boží rodina, tedy církev,
-    - **společně rosteme** v oddanosti Ježíši,
+    - **společně rosteme** v oddanosti Ježíši,
     - sobě navzájem,
-    - v získávání a budování učedníků
-    - a usilujeme o vznik dalších Božích rodin.
-- <span class="screen-only">(Viz „[Posílení vize](/posileni-vize)“ v menu)</span>
+    - v získávání a budování učedníků
+    - a usilujeme o vznik dalších Božích rodin.
+- <span class="screen-only">(Viz „[Posílení vize](/posileni-vize)“ v menu)</span>
 - <span class="print-only">(Viz „Posílení vize“ na druhé straně kartičky.)</span>
 
 
 ### :material-book-open-blank-variant-outline: Bible / Nové téma
 - **Přečtěme si dnešní text:**
-    - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
+    - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
     - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
-    - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
+    - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
     - Všichni **prověřme správnost** textu.
-- Co tento text říká **o Ježíši** nebo o Bohu?
+- Co tento text říká **o Ježíši** nebo o Bohu?
 - Co nám tento text říká **o lidech**?
 
 
@@ -56,21 +56,21 @@
 ## Pohled dopředu
 
 ### :material-run-fast: Akce <span class="nikdy-nevynechej"></span>
-- **Naslouchejme** teď Ježíši a **zapišme** si:
+- **Naslouchejme** teď Ježíši a **zapišme** si:
     - **K čemu** nás Ježíš na základě dneška vede?
-    - **Komu** řekneme o Ježíši a jak pomůžeme učedníkům v růstu?  Můžeme použít vztahovou mapu.
+    - **Komu** řekneme o Ježíši a jak pomůžeme učedníkům v růstu?  Můžeme použít vztahovou mapu.
 - Co nám **Ježíš řekl**?
 
 ### :material-dumbbell: Procvičování <span class="nikdy-nevynechej"></span>
-- Co si potřebujeme **procvičit**, abychom tento týden sdíleli Ježíše a pomáhali učedníkům v růstu?
-- (Např. Mapa vztahů, Zájem a modlitba, Bleskový příběh, Most, Pozvání na Discovery, Mince + BOSS + křest, Trychtýř, Enter)
+- Co si potřebujeme **procvičit**, abychom tento týden sdíleli Ježíše a pomáhali učedníkům v růstu?
+- (Např. Mapa vztahů, Zájem a modlitba, Bleskový příběh, Most, Pozvání na Discovery, Mince + BOSS + křest, Trychtýř, Enter)
 
-### :material-chat-outline: Rozhovor s Ježíšem
-- **Poprosme Ježíše** za sebe navzájem a za lidi, které chceme oslovit.
+### :material-chat-outline: Rozhovor s Ježíšem
+- **Poprosme Ježíše** za sebe navzájem a za lidi, které chceme oslovit.
 
 <div class="paticka-narrow" markdown>
 <hr>
-Podělte se o provázení jednotlivých částí setkání.
+Podělte se o provázení jednotlivých částí setkání.
 </div>
 
 </div>
@@ -79,6 +79,6 @@ Podělte se o provázení jednotlivých částí setkání.
 
 <div class="paticka-wide" markdown>
 <hr>
-Podělte se o provázení jednotlivých částí setkání.
+Podělte se o provázení jednotlivých částí setkání.
 <p class="print-only">srpen 2024</p>
 </div>

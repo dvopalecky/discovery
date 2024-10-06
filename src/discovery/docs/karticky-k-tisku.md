@@ -1,6 +1,6 @@
-# Kartičky k tisku
+# Kartičky k tisku
 
-Na této stránce najdeš pdf soubory pro tisk Discovery materiálů v různých formátech.
+Na této stránce najdeš pdf soubory pro tisk Discovery materiálů v různých formátech.
 
 ## Soubory ke stažení
 - <a href="/pdf/discovery-a4.pdf" target="_blank">Discovery A4 (1 stránka na list)</a>

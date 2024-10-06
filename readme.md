@@ -33,3 +33,8 @@ but since they use similar tech, they are in the same repo.
 - `swiper` for sliding 3/3 columns
 - `playwright` to generate the pdfs
 - `qpdf` is used for merging pdf files
+
+# Notes on no-break space
+- In the text I sometimes use no-break space " " \u00a0 which is different
+  from regular space. I suggest using the "Highlight Bad Chars" VS Code plugin
+  to display them
