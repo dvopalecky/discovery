@@ -1,0 +1,207 @@
+.print-mode span.screen-only {
+  display: none;
+}
+
+.print-mode label.md-overlay[for="__drawer"],
+.print-mode div[data-md-component="skip"],
+.print-mode div[data-md-component="announce"],
+.md-dialog
+{
+  display: none;
+}
+
+.print-mode .print-only {
+  display: block;
+}
+
+.print-mode span.print-only {
+  display: none;
+}
+
+.print-mode .paticka-wide hr {
+  display: none;
+}
+
+.print-mode article {
+  width: 210mm;
+  height: 148mm;
+  border: 1px solid #000;
+  margin: 1px !important;
+  padding: 7mm !important;
+  overflow: visible;
+  background: #fff;
+  transform: scale(1);
+  transform-origin: top left;
+  font-size: 0.7rem !important;
+  font-size: 0.67rem !important;
+  display: flex;
+  flex-direction: column;
+  color: #000 !important;
+}
+
+.print-mode article::before {
+  display: none;
+}
+
+.print-mode h1 {
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+  text-align: center;
+  margin-bottom: 0 !important;
+  color: #000 !important;
+}
+
+.print-mode h2 {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: 0 !important;
+  font-size: 0.7rem !important;
+  color: #000 !important;
+}
+
+.print-mode h3 {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0.1rem !important;
+  font-size: 0.8rem !important;
+  color: #000 !important;
+}
+
+.print-mode h4 {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0.1rem !important;
+}
+
+.print-mode ul, ol {
+  margin-top: 0rem !important;
+}
+
+.print-mode #discovery-main li ul li {
+  margin-bottom: 0 !important;
+  list-style-type: disc;
+}
+
+.print-mode .nikdy-nevynechej, .print-mode .tretina {
+  color: #000;
+}
+
+.print-mode .md-sidebar, .print-mode .md-header {
+  display: none !important;
+}
+
+.print-mode .column-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.print-mode #discovery-main .column:nth-child(1) {
+  flex-basis: calc(31% - 14px);
+}
+
+.print-mode #discovery-main .column:nth-child(2) {
+  flex-basis: calc(36% - 14px);
+}
+
+.print-mode #discovery-main .column:nth-child(3) {
+  flex-basis: calc(35% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(1) {
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(3) {
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(1) {
+  flex-basis: calc(60% - 14px);
+} */
+
+.print-mode #discovery-2nd-page .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(3) {
+  flex-basis: calc(25% - 14px);
+}
+
+.print-mode #discovery-2nd-page a {
+  color: #000 !important;
+}
+
+.print-mode #discovery-2nd-page p:has(img) {
+  margin-top: 0 !important;
+}
+
+.print-mode body {
+  background-color: #fff;
+}
+
+.print-mode .paticka-wide {
+  margin-top: auto;
+  display: flex;
+}
+
+.print-mode .paticka-wide p {
+  margin: 0;
+  font-size: 0.8em;
+}
+
+.print-mode .paticka-wide p:first-child {
+  flex: 3;
+  text-align: left;
+}
+
+.print-mode .paticka-wide p:last-child {
+  flex: 1;
+  text-align: right;
+  margin-top: auto;
+}
+
+.print-mode article > p {
+  margin-block-end: 0.3em;
+}
+.print-mode #vize-obecna p {
+  display: inline;
+}
+
+.print-mode #vize-obecna ul {
+  display: inline;
+  margin-left: 0;
+}
+
+.print-mode #vize-obecna ul li {
+  list-style-type: none !important;
+  display: inline;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Targeting the third level li elements */
+.print-mode #posileni-vize ul ul ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0 !important;
+}
+
+.print-mode #posileni-vize ul ul ul > li {
+  display: inline-flex;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.print-mode #posileni-vize ul ul ul > li a {
+  color: #000 !important;
+}
+
+.print-mode #posileni-vize ul ul ul > li::after {
+  content: ", "; /* Add a comma and space after each item */
+}
+
+.print-mode #posileni-vize ul ul ul > li:last-child::after {
+  content: ""; /* Remove the comma after the last item */
+}
