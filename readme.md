@@ -38,3 +38,9 @@ but since they use similar tech, they are in the same repo.
 - In the text I sometimes use no-break space " " \u00a0 which is different
   from regular space. I suggest using the "Highlight Bad Chars" VS Code plugin
   to display them
+
+# Visual tests
+- using `bun` and `playwright.js`
+- tests saved in `tests` folder
+- `bunx playwright test tests/discovery.spec.js` - run
+- `bunx playwright test tests/discovery.spec.js --update-snapshots` - update screenshots
