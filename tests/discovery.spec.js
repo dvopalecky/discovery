@@ -3,8 +3,11 @@ import { describe, test, expect } from '@playwright/test';
 const viewportDesktop = { width: 1440, height: 900 };
 const viewportMobile = { width: 390, height: 844 };
 
+const port = process.env.PORT_DISCOVERY || 8000;
+const baseUrl = `http://localhost:${port}`;
+
 describe('discovery', () => {
-  const link = 'http://localhost:8000/';
+  const link = `${baseUrl}/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -31,7 +34,7 @@ describe('discovery', () => {
 });
 
 describe('jak-zacit-discovery', () => {
-  const link = 'http://localhost:8000/jak-zacit-discovery/';
+  const link = `${baseUrl}/jak-zacit-discovery/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -50,7 +53,7 @@ describe('jak-zacit-discovery', () => {
 });
 
 describe('texty-ke-cteni', () => {
-  const link = 'http://localhost:8000/texty-ke-cteni/';
+  const link = `${baseUrl}/texty-ke-cteni/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -69,7 +72,7 @@ describe('texty-ke-cteni', () => {
 });
 
 describe('karticky-k-tisku', () => {
-  const link = 'http://localhost:8000/karticky-k-tisku/';
+  const link = `${baseUrl}/karticky-k-tisku/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -90,13 +93,13 @@ describe('karticky-k-tisku', () => {
 describe('discovery print', () => {
   test('page 1: discovery', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
-    await page.goto('http://localhost:8000/#print');
+    await page.goto(`${baseUrl}/#print`);
     await expect(page).toHaveScreenshot({});
   });
 
   test('page 2: jak zacit discovery', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
-    await page.goto('http://localhost:8000/jak-zacit-discovery-print/#print');
+    await page.goto(`${baseUrl}/jak-zacit-discovery-print/#print`);
     await expect(page).toHaveScreenshot();
   });
 });

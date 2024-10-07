@@ -1,27 +1,27 @@
 echo "Building Discovery"
 ./build.sh discovery
-
-echo "Starting server"
-PORT=8000
-rye run python -m http.server $PORT --directory dist &
-SERVER_PID=$!
-
-echo "Running tests"
-bunx playwright test tests/discovery.spec.js
-
-echo "Killing server"
-kill $SERVER_PID
-
+mv dist dist_discovery
 echo "Building Krokysjezisem"
 ./build.sh krokysjezisem
+mv dist dist_krokysjezisem
 
-echo "Starting server"
-PORT=8000
-rye run python -m http.server $PORT --directory dist &
-SERVER_PID=$!
+echo "Starting servers"
+export PORT_DISCOVERY=8001
+rye run python -m http.server $PORT_DISCOVERY --directory dist_discovery &
+SERVER_PID_DISCOVERY=$!
+
+export PORT_KROKYSJEZISEM=8002
+rye run python -m http.server $PORT_KROKYSJEZISEM --directory dist_krokysjezisem &
+SERVER_PID_KROKYSJEZISEM=$!
 
 echo "Running tests"
-bunx playwright test tests/krokysjezisem.spec.js
+bunx playwright test tests/*.spec.js
 
-echo "Killing server"
-kill $SERVER_PID
+
+echo "Killing servers"
+kill $SERVER_PID_DISCOVERY
+kill $SERVER_PID_KROKYSJEZISEM
+
+echo "cleaning up"
+rm -rf dist_discovery
+rm -rf dist_krokysjezisem

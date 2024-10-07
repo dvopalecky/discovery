@@ -3,8 +3,11 @@ import { describe, test, expect } from '@playwright/test';
 const viewportDesktop = { width: 1440, height: 900 };
 const viewportMobile = { width: 390, height: 844 };
 
+const port = process.env.PORT_KROKYSJEZISEM || 8000;
+const baseUrl = `http://localhost:${port}`;
+
 describe('bozi rodina', () => {
-  const link = 'http://localhost:8000/';
+  const link = `${baseUrl}/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -31,7 +34,7 @@ describe('bozi rodina', () => {
 });
 
 describe('posileni-vize', () => {
-  const link = 'http://localhost:8000/posileni-vize/';
+  const link = `${baseUrl}/posileni-vize/`;
   test('desktop', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
@@ -52,13 +55,13 @@ describe('posileni-vize', () => {
 describe('bozi-rodina print', () => {
   test('page 1: bozi-rodina', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
-    await page.goto('http://localhost:8000/#print');
+    await page.goto(`${baseUrl}/#print`);
     await expect(page).toHaveScreenshot({});
   });
 
   test('page 2: posileni-vize', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
-    await page.goto('http://localhost:8000/posileni-vize/#print');
+    await page.goto(`${baseUrl}/posileni-vize/#print`);
     await expect(page).toHaveScreenshot();
   });
 });
