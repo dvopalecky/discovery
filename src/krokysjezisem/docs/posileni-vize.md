@@ -57,7 +57,7 @@ Jako Boží rodina, tedy církev,
 </div>
 <div class="column" markdown>
 
-- Krátce se **sdílejme** např. **proč a jak**:
+- Krátce se **sdílejme** např. **proč nebo jak**:
     - růst ve vztahu s Ježíšem,
     - růst v oddání sobě navzájem,
     - sdílet Ježíše,
