@@ -15,8 +15,11 @@ rye run python -m http.server $PORT_KROKYSJEZISEM --directory dist_krokysjezisem
 SERVER_PID_KROKYSJEZISEM=$!
 
 echo "Running tests"
-bunx playwright test tests/*.spec.js
-
+if [[ "$*" == *--update-snapshots* ]]; then
+  bunx playwright test tests/*.spec.js --update-snapshots
+else
+  bunx playwright test tests/*.spec.js
+fi
 
 echo "Killing servers"
 kill $SERVER_PID_DISCOVERY

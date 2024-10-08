@@ -42,5 +42,5 @@ but since they use similar tech, they are in the same repo.
 # Visual tests
 - using `bun` and `playwright.js`
 - tests saved in `tests` folder
-- `bunx playwright test tests/discovery.spec.js` - run
-- `bunx playwright test tests/discovery.spec.js --update-snapshots` - update screenshots
+- run `./test.sh` to run all tests
+- run `./test.sh --update-snapshots` to update all snapshots
