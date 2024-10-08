@@ -37,6 +37,10 @@ function onDomLoaded() {
   onPageChange();
   const observer = new MutationObserver(mutationObserverCallback);
   observer.observe(document.body, { childList: true, subtree: true });
+
+  // Make Discovery link open in a new tab
+  const discoveryLink = document.querySelector('a[href="https://discoverybible.cz"]');
+  if (discoveryLink) discoveryLink.setAttribute('target', '_blank');
 }
 
 function onPageChange() {
