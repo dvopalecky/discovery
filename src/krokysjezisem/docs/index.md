@@ -80,5 +80,5 @@ Podělte se o provázení jednotlivých částí setkání.
 <div class="paticka-wide" markdown>
 <hr>
 Podělte se o provázení jednotlivých částí setkání.
-<p class="print-only">srpen 2024</p>
+<p class="print-only">říjen 2024</p>
 </div>
