@@ -190,15 +190,15 @@ body.print-mode {
 }
 
 .print-mode #posileni-vize .column:nth-child(1) {
-  flex-basis: calc(29% - 14px);
+  flex-basis: calc(35% - 14px);
 }
 
 .print-mode #posileni-vize .column:nth-child(2) {
-  flex-basis: calc(42% - 14px);
+  flex-basis: calc(40% - 14px);
 }
 
 .print-mode #posileni-vize .column:nth-child(3) {
-  flex-basis: calc(29% - 14px);
+  flex-basis: calc(25% - 14px);
 }
 
 .print-mode #vize-obecna p {
