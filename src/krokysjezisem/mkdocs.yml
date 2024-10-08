@@ -4,6 +4,7 @@ site_dir: ../../dist
 nav:
   - Setkání Boží rodiny: index.md
   - Posílení vize: posileni-vize.md
+  - Kartičky k tisku: karticky-k-tisku.md
 
 theme:
   name: material

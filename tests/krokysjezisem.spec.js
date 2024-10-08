@@ -52,6 +52,26 @@ describe('posileni-vize', () => {
   });
 });
 
+describe('karticky-k-tisku', () => {
+  const link = `${baseUrl}/karticky-k-tisku/`;
+  test('desktop', async ({ page }) => {
+    await page.setViewportSize(viewportDesktop);
+    await page.goto(link);
+    await expect(page).toHaveScreenshot();
+    await page.click('label[title="Tmavý režim"]');
+    await expect(page).toHaveScreenshot();
+  });
+
+  test('mobile', async ({ page }) => {
+    await page.setViewportSize(viewportMobile);
+    await page.goto(link);
+    await expect(page).toHaveScreenshot();
+    await page.click('label[title="Tmavý režim"]');
+    await expect(page).toHaveScreenshot();
+  });
+});
+
+
 describe('bozi-rodina print', () => {
   test('page 1: bozi-rodina', async ({ page }) => {
     await page.setViewportSize(viewportDesktop);
