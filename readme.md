@@ -19,9 +19,10 @@ but since they use similar tech, they are in the same repo.
 
 # Build
 - `./build.sh discovery` or `./build.sh krokysjezisem`
-- `./build_and_print.sh discovery`
+- `./build_and_print.sh discovery` or `./build_and_print.sh krokysjezisem`
 
 # Deploy
+- Before deploying, run `./build_and_print.sh` first
 - requirement: ssh access to dokku server
 - `./deploy.sh discovery` or `./deploy.sh krokysjezisem`
 

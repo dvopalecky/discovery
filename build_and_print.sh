@@ -9,6 +9,9 @@ SERVER_PID=$!
 if [ "$1" == "discovery" ]; then
     rye run python print_pdf.py discovery $PORT ""
     rye run python print_pdf.py discovery-2 $PORT jak-zacit-discovery-print
+elif [ "$1" == "krokysjezisem" ]; then
+    rye run python print_pdf.py bozi-rodina $PORT ""
+    rye run python print_pdf.py bozi-rodina-2 $PORT posileni-vize
 else
     rye run python print_pdf.py $1 $PORT
 fi
@@ -26,6 +29,11 @@ if [ "$1" == "discovery" ]; then
     qpdf --empty --pages discovery-a5-2x.pdf discovery-2-a5-2x.pdf -- dist/pdf/discovery-a5-2x.pdf
     qpdf --empty --pages discovery-a6-4x.pdf discovery-2-a6-4x.pdf -- dist/pdf/discovery-a6-4x.pdf
     rm discovery-a4.pdf discovery-2-a4.pdf discovery-a5-2x.pdf discovery-2-a5-2x.pdf discovery-a6-4x.pdf discovery-2-a6-4x.pdf
+elif [ "$1" == "krokysjezisem" ]; then
+    qpdf --empty --pages bozi-rodina-a4.pdf bozi-rodina-2-a4.pdf -- dist/pdf/bozi-rodina-a4.pdf
+    qpdf --empty --pages bozi-rodina-a5-2x.pdf bozi-rodina-2-a5-2x.pdf -- dist/pdf/bozi-rodina-a5-2x.pdf
+    qpdf --empty --pages bozi-rodina-a6-4x.pdf bozi-rodina-2-a6-4x.pdf -- dist/pdf/bozi-rodina-a6-4x.pdf
+    rm bozi-rodina-a4.pdf bozi-rodina-2-a4.pdf bozi-rodina-a5-2x.pdf bozi-rodina-2-a5-2x.pdf bozi-rodina-a6-4x.pdf bozi-rodina-2-a6-4x.pdf
 else
     mv ./*.pdf dist/pdf
 fi
