@@ -7,3 +7,6 @@ node_modules
 dist
 wip
 test-results
+*.pdf
+dist_discovery
+dist_krokysjezisem
