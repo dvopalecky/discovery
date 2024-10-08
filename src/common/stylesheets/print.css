@@ -173,6 +173,22 @@ body.print-mode {
   margin-top: 0 !important;
 }
 
+.print-mode #bozi-rodina-main article {
+  font-size: 0.66rem !important;
+}
+
+.print-mode #bozi-rodina-main .column:nth-child(1) {
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #bozi-rodina-main .column:nth-child(2) {
+  flex-basis: calc(37% - 14px);
+}
+
+.print-mode #bozi-rodina-main .column:nth-child(3) {
+  flex-basis: calc(34% - 14px);
+}
+
 .print-mode #posileni-vize .column:nth-child(1) {
   flex-basis: calc(29% - 14px);
 }

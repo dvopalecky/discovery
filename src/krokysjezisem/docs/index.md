@@ -1,5 +1,5 @@
 <script>
-  document.querySelector('.md-content').id = "discovery-main";
+  document.querySelector('.md-content').id = "bozi-rodina-main";
   document.querySelector('.md-content').classList.add('three-thirds');
 </script>
 
@@ -38,7 +38,7 @@
     - v získávání a budování učedníků
     - a usilujeme o vznik dalších Božích rodin.
 - <span class="screen-only">(Další tipy najdeš v sekci „[Posílení vize](posileni-vize.md)“)</span>
-- <span class="print-only">(Další tipy najdeš na druhé straně kartičky)</span>
+- <span class="print-only">(Další tipy najdeš na druhé straně)</span>
 
 ### :material-book-open-blank-variant-outline: Bible / Nové téma
 - **Přečtěme si dnešní text:**

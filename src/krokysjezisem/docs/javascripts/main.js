@@ -48,7 +48,7 @@ function onPageChange() {
     document.body.setAttribute('data-md-color-scheme', 'default');
   } else {
     document.body.classList.remove('print-mode');
-    if (document.querySelector('#discovery-main')) {
+    if (document.querySelector('#bozi-rodina-main')) {
       // && window.matchMedia("(orientation: portrait)").matches) {
       setupSwiper();
     }
