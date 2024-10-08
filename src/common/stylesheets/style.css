@@ -27,7 +27,7 @@ h2 {
   border-top: 1px solid;
 }
 
-#discovery-main h2:after {
+.three-thirds h2:after {
   content: " (20-30 min)";
   font-size: 0.7em;
 }
@@ -54,7 +54,7 @@ li {
   margin-left: 12px !important;
 }
 
-#discovery-main li {
+.three-thirds li {
   list-style-type: none;
 }
 

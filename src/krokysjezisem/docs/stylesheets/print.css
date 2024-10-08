@@ -1,39 +1,37 @@
-.print-mode span.screen-only {
-  display: none;
+@page {
+  margin: 0;
+  size: A4;
 }
 
-.print-mode label.md-overlay[for="__drawer"],
-.print-mode div[data-md-component="skip"],
-.print-mode div[data-md-component="announce"],
-.md-dialog
-{
-  display: none;
+.print-mode article md-content__inner {
+  margin: 0;
 }
 
-.print-mode .print-only {
-  display: block;
+body.print-mode {
+  box-sizing: border-box;
 }
 
-.print-mode span.print-only {
-  display: none;
+.print-mode .md-main__inner.md-grid {
+  margin: 0;
 }
 
-.print-mode .paticka-wide hr {
-  display: none;
+.print-mode div.md-content {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(2, auto);
+  gap: 0;
 }
 
 .print-mode article {
+  box-sizing: border-box;
   width: 210mm;
-  height: 148mm;
-  border: 1px solid #000;
-  margin: 1px !important;
+  height: 148.4mm;
+  margin: 0 !important;
   padding: 7mm !important;
   overflow: visible;
   background: #fff;
-  transform: scale(1);
-  transform-origin: top left;
   font-size: 0.7rem !important;
-  font-size: 0.67rem !important;
+  /* border: 1px solid #000; */
   display: flex;
   flex-direction: column;
   color: #000 !important;
@@ -41,6 +39,23 @@
 
 .print-mode article::before {
   display: none;
+}
+
+.print-mode label.md-overlay[for="__drawer"],
+.print-mode div[data-md-component="skip"],
+.print-mode div[data-md-component="announce"],
+.print-mode div.md-dialog,
+.print-mode .paticka-narrow {
+  display: none;
+}
+
+.print-mode hr {
+  display: none;
+}
+
+.print-mode .print-only {
+  display: block;
+  margin-top: 0;
 }
 
 .print-mode h1 {
@@ -75,9 +90,9 @@
   margin-top: 0rem !important;
 }
 
-.print-mode #discovery-main li ul li {
+.print-mode li ul li {
   margin-bottom: 0 !important;
-  list-style-type: disc;
+  list-style-type: disc !important;
 }
 
 .print-mode .nikdy-nevynechej, .print-mode .tretina {
@@ -91,50 +106,6 @@
 .print-mode .column-wrapper {
   display: flex;
   justify-content: space-between;
-}
-
-.print-mode #discovery-main .column:nth-child(1) {
-  flex-basis: calc(31% - 14px);
-}
-
-.print-mode #discovery-main .column:nth-child(2) {
-  flex-basis: calc(36% - 14px);
-}
-
-.print-mode #discovery-main .column:nth-child(3) {
-  flex-basis: calc(35% - 14px);
-}
-
-.print-mode #posileni-vize .column:nth-child(1) {
-  flex-basis: calc(29% - 14px);
-}
-
-.print-mode #posileni-vize .column:nth-child(2) {
-  flex-basis: calc(42% - 14px);
-}
-
-.print-mode #posileni-vize .column:nth-child(3) {
-  flex-basis: calc(29% - 14px);
-}
-
-.print-mode #discovery-2nd-page .column:nth-child(1) {
-  flex-basis: calc(60% - 14px);
-} */
-
-.print-mode #discovery-2nd-page .column:nth-child(2) {
-  flex-basis: calc(42% - 14px);
-}
-
-.print-mode #discovery-2nd-page .column:nth-child(3) {
-  flex-basis: calc(25% - 14px);
-}
-
-.print-mode #discovery-2nd-page a {
-  color: #000 !important;
-}
-
-.print-mode #discovery-2nd-page p:has(img) {
-  margin-top: 0 !important;
 }
 
 .print-mode body {
@@ -162,9 +133,54 @@
   margin-top: auto;
 }
 
+.print-mode .paticka-wide hr {
+  display: none;
+}
+
 .print-mode article > p {
   margin-block-end: 0.3em;
 }
+
+.print-mode #discovery-main .column:nth-child(1) {
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #discovery-main .column:nth-child(2) {
+  flex-basis: calc(35% - 14px);
+}
+
+.print-mode #discovery-main .column:nth-child(3) {
+  flex-basis: calc(36% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(1) {
+  flex-basis: calc(60% - 14px);
+}
+
+.print-mode #discovery-2nd-page .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+.print-mode #discovery-2nd-page a {
+  color: #000 !important;
+}
+
+.print-mode #discovery-2nd-page p:has(img) {
+  margin-top: 0 !important;
+}
+
+.print-mode #posileni-vize .column:nth-child(1) {
+  flex-basis: calc(29% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(2) {
+  flex-basis: calc(42% - 14px);
+}
+
+.print-mode #posileni-vize .column:nth-child(3) {
+  flex-basis: calc(29% - 14px);
+}
+
 .print-mode #vize-obecna p {
   display: inline;
 }
@@ -204,4 +220,8 @@
 
 .print-mode #posileni-vize ul ul ul > li:last-child::after {
   content: ""; /* Remove the comma after the last item */
+}
+
+.print-mode span.screen-only {
+  display: none;
 }

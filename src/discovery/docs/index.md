@@ -1,5 +1,6 @@
 <script>
   document.querySelector('.md-content').id = "discovery-main";
+  document.querySelector('.md-content').classList.add('three-thirds');
 </script>
 
 # Discovery - objevné čtení Bible
