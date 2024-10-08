@@ -105,6 +105,10 @@ footer {
   display: none;
 }
 
+span.screen-only {
+  display: inline;
+}
+
 article li ul li {
   list-style-type: disc !important;
   /* margin-bottom: 0 !important; */
@@ -162,10 +166,6 @@ label.md-header__button.md-icon[for="__search"] {
 
 #__search {
   display: none !important;
-}
-
-span.screen-only {
-  display: inline;
 }
 
 body[data-md-color-scheme="slate"] img#kruh-cirkve {
