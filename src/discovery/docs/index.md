@@ -12,17 +12,17 @@
 
 ## Pohled zpět
 
-### :material-heart-outline: Vzájemná péče
+### :custom-vzajemna-pece: Vzájemná péče
 - Za kterou jednu věc jsme od minula nejvíce **vděční**?
 - Která jedna věc nám dělá **starosti**?
 - **Ježíši, prosíme** za... konkrétní starosti.
 
-### :material-check-circle-outline: Návrat <span class="nikdy-nevynechej"></span>
+### :custom-navrat: Návrat <span class="nikdy-nevynechej"></span>
 
 - O čem byl **minulý příběh** a jak jsme ho **uplatnili** v praxi?
 - S kým jsme ho **sdíleli**?
 
-### :material-human-handsup: Oslava Ježíše
+### :custom-oslava-jezise: Oslava Ježíše
 - **Ježíši, děkujeme** Ti za... vděčnosti, Ježíšovo působení
 - **Ježíši**, prosíme, **mluv k nám** dnes skrze čtení Bible.
 
@@ -31,10 +31,10 @@
 
 ## Pohled nahoru
 
-### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
+### :custom-posileni-vize: Posílení vize <span class="nikdy-nevynechej"></span>
 - **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás.
 
-### :material-book-open-blank-variant-outline: Bible
+### :custom-bible: Bible
 - **Přečtěme si dnešní příběh:**
     - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
     - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
@@ -48,15 +48,15 @@
 
 ## Pohled dopředu
 
-### :material-run-fast: Akce <span class="nikdy-nevynechej"></span>
+### :custom-akce: Akce <span class="nikdy-nevynechej"></span>
 - Jak konkrétně to **uplatníme v životě**?
 - Komu by tento příběh nebo jedna myšlenka mohly pomoci? **Komu to řekneme**?
 
-### :material-dumbbell: Procvičování <span class="nikdy-nevynechej"></span>
+### :custom-procvicovani: Procvičování <span class="nikdy-nevynechej"></span>
 - Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
 - Mohl by nám někdo říct **příběh**, jak pozval Ježíše do svého života, nebo nakreslit **ilustraci**, jak navázat vztah s Ježíšem?
 
-### :material-chat-outline: Rozhovor s Ježíšem
+### :custom-rozhovor-s-jezisem: Rozhovor s Ježíšem
 - Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou.
 - Kdy se setkáme **příště**?
 - Koho ještě můžeme **pozvat**?

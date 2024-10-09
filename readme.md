@@ -45,3 +45,10 @@ but since they use similar tech, they are in the same repo.
 - tests saved in `tests` folder
 - run `./test.sh` to run all tests
 - run `./test.sh --update-snapshots` to update all snapshots
+
+# Processing icons
+- take the pdf icons from Andy
+- use https://cloudconvert.com to convert to svg
+- use https://svgomg.net to optimize the svg
+- change stroke to "currentColor" in code editor
+- change viewBox="-105 -105 1260 1260" in code editor
