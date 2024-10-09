@@ -10,6 +10,10 @@
 <div class="column-wrapper swiper-wrapper" markdown>
 <div class="column swiper-slide" markdown>
 
+<div class="paticka-narrow" markdown>
+<p style="margin-top: 32px;margin-bottom: -10px;">Podělte se o provázení jednotlivých částí setkání.</p>
+</div>
+
 ## Pohled zpět
 
 ### :material-heart-outline: Vzájemná péče
@@ -67,11 +71,6 @@
 
 ### :material-chat-outline: Rozhovor s Ježíšem
 - **Poprosme Ježíše** za sebe navzájem a za lidi, které chceme oslovit.
-
-<div class="paticka-narrow" markdown>
-<hr>
-Podělte se o provázení jednotlivých částí setkání.
-</div>
 
 </div>
 </div>
