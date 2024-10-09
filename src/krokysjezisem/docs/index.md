@@ -16,17 +16,17 @@
 
 ## Pohled zpět
 
-### :material-heart-outline: Vzájemná péče
+### :custom-vzajemna-pece: Vzájemná péče
 - Za kterou jednu věc jsme od minula nejvíce **vděční**?
 - Která jedna věc nám dělá **starosti**?
 - **Ježíši, prosíme** za... konkrétní starosti.
 
-### :material-check-circle-outline: Návrat <span class="nikdy-nevynechej"></span>
+### :custom-navrat: Návrat <span class="nikdy-nevynechej"></span>
 
 - K čemu nás Ježíš minule vedl a jak jsme to **uplatnili** v praxi?
 - Jak jsme **sdíleli Ježíše** a pomáhali učedníkům v růstu?
 
-### :material-human-handsup: Oslava Ježíše
+### :custom-oslava-jezise: Oslava Ježíše
 - Připomeňme si teď **Ježíšovu oběť** chlebem a červeným nápojem.
 - **Děkujme Mu** za to, jaký je a co pro nás udělal: slovy, kouskem z Bible, písněmi, štědrostí…
 
@@ -35,7 +35,7 @@
 
 ## Pohled nahoru
 
-### :material-eye-outline: Posílení vize <span class="nikdy-nevynechej"></span>
+### :custom-posileni-vize: Posílení vize <span class="nikdy-nevynechej"></span>
 - Jako Boží rodina, tedy církev,
     - **společně rosteme** v oddanosti Ježíši,
     - sobě navzájem,
@@ -44,7 +44,7 @@
 - <span class="screen-only">(Další tipy najdeš v sekci „[Posílení vize](posileni-vize.md)“)</span>
 - <span class="print-only">(Další tipy najdeš na druhé straně)</span>
 
-### :material-book-open-blank-variant-outline: Bible / Nové téma
+### :custom-bible: Bible / Nové téma
 - **Přečtěme si dnešní text:**
     - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
     - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
@@ -59,17 +59,17 @@
 
 ## Pohled dopředu
 
-### :material-run-fast: Akce <span class="nikdy-nevynechej"></span>
+### :custom-akce: Akce <span class="nikdy-nevynechej"></span>
 - **Naslouchejme** teď Ježíši a **zapišme** si:
     - **K čemu** nás Ježíš na základě dneška vede?
     - **Komu** řekneme o Ježíši a jak pomůžeme učedníkům v růstu?  Můžeme použít vztahovou mapu.
 - Co nám **Ježíš řekl**?
 
-### :material-dumbbell: Procvičování <span class="nikdy-nevynechej"></span>
+### :custom-procvicovani: Procvičování <span class="nikdy-nevynechej"></span>
 - Co si potřebujeme **procvičit**, abychom tento týden sdíleli Ježíše a pomáhali učedníkům v růstu?
 - (Např. Mapa vztahů, Zájem a modlitba, Bleskový příběh, Most, Pozvání na Discovery, Mince + BOSS + křest, Trychtýř, Enter)
 
-### :material-chat-outline: Rozhovor s Ježíšem
+### :custom-rozhovor-s-jezisem: Rozhovor s Ježíšem
 - **Poprosme Ježíše** za sebe navzájem a za lidi, které chceme oslovit.
 
 </div>
