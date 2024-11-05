@@ -49,7 +49,7 @@
     - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
     - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
     - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
-    - Všichni **prověřme správnost** textu.
+    - V textu **prověřme správnost** shrnutí.
 - Co tento text říká **o Ježíši** nebo o Bohu?
 - Co nám tento text říká **o lidech**?
 
@@ -79,5 +79,5 @@
 <div class="paticka-wide" markdown>
 <hr>
 Podělte se o provázení jednotlivých částí setkání.
-<p class="print-only">říjen 2024</p>
+<p class="print-only">listopad 2024</p>
 </div>
