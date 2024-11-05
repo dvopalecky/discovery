@@ -65,6 +65,13 @@ Jako Boží rodina, tedy církev,
     - budovat učedníky,
     - usilovat o vznik nových Božích rodin.
 
+<div class="print-only" style="text-align: right;">
+    <img src="/images/qr-code-krokysjezisem.png" alt="QR kód: krokysjezisem.cz"
+        style="width:75px;margin-top:3.5em;"
+    >
+    <br>
+    <div style="font-size: 70%;margin-top:-5px;">krokysjezisem.cz</div>
+</div>
 
 </div>
 </div>
