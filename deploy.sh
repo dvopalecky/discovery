@@ -4,7 +4,6 @@ if [ "$1" != "discovery" ] && [ "$1" != "krokysjezisem" ]; then
 fi
 
 cd dist
-echo {} > composer.json
-mv index.html index.php
+touch .static
 
-tar -cz . | ssh dokku git:from-archive $1 --
+tar --no-xattrs --no-mac-metadata -cz . | ssh dokku git:from-archive $1 --
