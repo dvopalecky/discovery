@@ -10,7 +10,7 @@ cd src
 cd "$1"
 
 echo "Building MkDocs"
-rye run mkdocs build
+uv run mkdocs build
 cd ../..
 
 echo "Updating hashes and references"
@@ -36,4 +36,4 @@ mv dist/stylesheets/print.css dist/stylesheets/print-$HASH_PRINT.css
 find dist -type f -name "*.html" -exec sed -i '' "s/print.css/print-$HASH_PRINT.css/g" {} +
 
 echo "Post processing"
-rye run python post_process.py
+uv run python post_process.py

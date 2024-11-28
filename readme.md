@@ -7,12 +7,11 @@ but since they use similar tech, they are in the same repo.
 
 # Requirements
 - UNIX based development environment
-- python installed
-- [rye](https://rye.astral.sh) installed
+- [uv](https://docs.astral.sh/uv/) installed - to run python and packages
 - [qpdf](https://github.com/qpdf/qpdf) installed - only for printing
 
 # Installation
-- `rye sync`
+- `uv sync --frozen`
 
 # Run local dev server
 - `./dev.sh discovery` or `./dev.sh krokysjezisem`

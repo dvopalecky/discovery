@@ -3,17 +3,17 @@
 ./build.sh $1
 
 PORT=8001
-rye run python -m http.server $PORT --directory dist &
+uv run python -m http.server $PORT --directory dist &
 SERVER_PID=$!
 
 if [ "$1" == "discovery" ]; then
-    rye run python print_pdf.py discovery $PORT ""
-    rye run python print_pdf.py discovery-2 $PORT jak-zacit-discovery-print
+    uv run python print_pdf.py discovery $PORT ""
+    uv run python print_pdf.py discovery-2 $PORT jak-zacit-discovery-print
 elif [ "$1" == "krokysjezisem" ]; then
-    rye run python print_pdf.py bozi-rodina $PORT ""
-    rye run python print_pdf.py bozi-rodina-2 $PORT posileni-vize
+    uv run python print_pdf.py bozi-rodina $PORT ""
+    uv run python print_pdf.py bozi-rodina-2 $PORT posileni-vize
 else
-    rye run python print_pdf.py $1 $PORT
+    uv run python print_pdf.py $1 $PORT
 fi
 
 
