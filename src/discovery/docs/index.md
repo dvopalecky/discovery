@@ -3,67 +3,67 @@
   document.querySelector('.md-content').classList.add('three-thirds');
 </script>
 
-# Discovery - objevné čtení Bible
+# Discovery Bible Reading
 
 <div class="swiper" markdown>
 <div class="swiper-pagination"></div>
 <div class="column-wrapper swiper-wrapper" markdown>
 <div class="column swiper-slide" markdown>
 
-## Pohled zpět
+## Look back
 
-### :custom-vzajemna-pece: Vzájemná péče
-- Za kterou jednu věc jsme od minula nejvíce **vděční**?
-- Která jedna věc nám dělá **starosti**?
-- **Ježíši, prosíme** za... konkrétní starosti.
+### :custom-vzajemna-pece: Care
+- What one thing are we most **grateful** for since last time?
+- What one thing **worries** us?
+- **Jesus, we pray** for... specific concerns.
 
-### :custom-navrat: Návrat <span class="nikdy-nevynechej"></span>
+### :custom-navrat: Return <span class="nikdy-nevynechej"></span>
 
-- O čem byl **minulý příběh** a jak jsme ho **uplatnili** v praxi?
-- S kým jsme ho **sdíleli**?
+- What was the **last story** about and how did we **apply** it in practice?
+- Who did we **share** it with?
 
-### :custom-oslava-jezise: Oslava Ježíše
-- **Ježíši, děkujeme** Ti za... vděčnosti, Ježíšovo působení
-- **Ježíši**, prosíme, **mluv k nám** dnes skrze čtení Bible.
+### :custom-oslava-jezise: Celebrate Jesus
+- **Jesus, we thank** You for... gratitudes, Jesus's work
+- **Jesus**, please **speak to us** today through the Bible reading.
 
 </div>
 <div class="column swiper-slide" markdown>
 
-## Pohled nahoru
+## Look up
 
-### :custom-posileni-vize: Posílení vize <span class="nikdy-nevynechej"></span>
-- **Scházíme** se, abychom poznávali živého **Ježíše**, poznávali **Bibli** a vytvářeli **komunity**, jaké může začít kdokoli z nás.
+### :custom-posileni-vize: Vision <span class="nikdy-nevynechej"></span>
+- We **meet** to know the living **Jesus**, understand the **Bible**, and create **communities** that anyone among us can start.
 
 ### :custom-bible: Bible
-- **Přečtěme si dnešní příběh:**
-    - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
-    - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
-    - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
-    - V textu **prověřme správnost** shrnutí.
-- Co tento text říká **o Ježíši** nebo o Bohu?
-- Co nám tento text říká **o lidech**?
+- **Let's read today's story:**
+    - Who will **read** it **first**, slowly and aloud? The rest of us will follow the text.
+    - Who will **read it second**? The rest of us will just **listen**.
+    - Let's not look at the text now and try to **summarize** it together from memory.
+    - Let's **verify the accuracy** of our summary.
+- What does this text say **about Jesus** or God?
+- What does this text tell us **about people**?
 
 </div>
 <div class="column swiper-slide" markdown>
 
-## Pohled dopředu
+## Look forward
 
-### :custom-akce: Akce <span class="nikdy-nevynechej"></span>
-- Jak konkrétně to **uplatníme v životě**?
-- Komu by tento příběh nebo jedna myšlenka mohly pomoci? **Komu to řekneme**?
+### :custom-akce: Action <span class="nikdy-nevynechej"></span>
+- How will we specifically **apply this in our lives**?
+- Who could benefit from this story or one idea? **Who will we tell**?
 
-### :custom-procvicovani: Procvičování <span class="nikdy-nevynechej"></span>
-- Řekněme, že jsem tvůj kamarád. **Co mi řekneš** o dnešním příběhu? Zkusme si to.
-- Mohl by nám někdo říct **příběh**, jak pozval Ježíše do svého života, nebo nakreslit **ilustraci**, jak navázat vztah s Ježíšem?
+### :custom-procvicovani: Practice <span class="nikdy-nevynechej"></span>
+- Let's say I'm your friend. **What will you tell me** about today's story? Let's practice.
+- Could someone tell us their **story** of how they invited Jesus into their life, or draw an **illustration** of how to start a relationship with Jesus?
 
-### :custom-rozhovor-s-jezisem: Rozhovor s Ježíšem
-- Pojďme teď **oslovit Ježíše**, kdokoli z nás, klidně jen jednou větou.
-- Kdy se setkáme **příště**?
-- Koho ještě můžeme **pozvat**?
+### :custom-rozhovor-s-jezisem: Conversation with Jesus
+- Let's now **talk to Jesus**, anyone of us, even with just one sentence.
+- When will we meet **next**?
+- Who else can we **invite**?
 
 <div class="paticka-narrow" markdown>
 <hr>
-Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
+Teach Discovery to your friend so they can teach it to their friend!
 </div>
 
 </div>
@@ -72,6 +72,6 @@ Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
 
 <div class="paticka-wide" markdown>
 <hr>
-Discovery nauč svého kamaráda, aby to i on uměl naučit svého kamaráda!
-<p class="print-only">listopad 2024</p>
+Teach Discovery to your friend so they can teach it to their friend!
+<p class="print-only">November 2024</p>
 </div>

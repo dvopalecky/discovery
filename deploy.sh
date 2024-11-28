@@ -6,4 +6,4 @@ fi
 cd dist
 touch .static
 
-tar --no-xattrs --no-mac-metadata -cz . | ssh dokku git:from-archive $1 --
+tar --no-xattrs --no-mac-metadata -cz . | ssh dokku git:from-archive en-$1 --

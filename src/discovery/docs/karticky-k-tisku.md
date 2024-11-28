@@ -1,8 +1,8 @@
-# Kartičky k tisku
+# Cards for printing
 
-Na této stránce najdeš pdf soubory pro tisk Discovery materiálů v různých formátech.
+On this page you will find PDF files for printing Discovery materials in various formats.
 
-## Soubory ke stažení
-- <a href="/pdf/discovery-a4.pdf" target="_blank">Discovery A4 (1 stránka na list)</a>
-- <a href="/pdf/discovery-a5-2x.pdf" target="_blank">Discovery A5 (2 stránky na list)</a>
-- <a href="/pdf/discovery-a6-4x.pdf" target="_blank">Discovery A6 (4 stránky na list)</a>
+## Download Files
+- <a href="/pdf/discovery-a4.pdf" target="_blank">Discovery A4 (1 page per sheet)</a>
+- <a href="/pdf/discovery-a5-2x.pdf" target="_blank">Discovery A5 (2 pages per sheet)</a>
+- <a href="/pdf/discovery-a6-4x.pdf" target="_blank">Discovery A6 (4 pages per sheet)</a>

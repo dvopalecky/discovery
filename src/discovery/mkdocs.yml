@@ -3,9 +3,9 @@ site_dir: ../../dist
 
 nav:
   - Discovery: index.md
-  - Jak začít Discovery: jak-zacit-discovery.md
-  - Texty ke čtení: texty-ke-cteni.md
-  - Kartičky k tisku: karticky-k-tisku.md
+  - How to start Discovery: jak-zacit-discovery.md
+  - Texts to read: texty-ke-cteni.md
+  - Cards to print: karticky-k-tisku.md
 
 theme:
   name: material

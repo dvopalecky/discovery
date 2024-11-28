@@ -2,56 +2,56 @@
   document.querySelector('.md-content').id = "discovery-2nd-page";
 </script>
 
-# Jak začít Discovery
+# How to Start Discovery
 
 <div class="column-wrapper" markdown>
 <div class="column" markdown>
 
-### Jak začít
-1. Discovery může začít kdokoli. Přizvi parťáka, který je taky nadšený pro Discovery.
-2. Udělejte si širší seznam známých a proste za ně Ježíše.
-3. Stanovte datum a místo prvního Discovery. Setkání dělejte pravidelně.
-4. Pozvěte lidi. Zvěte je opakovaně. Procvičte si, co jim řeknete:
-    - Ahoj Jirko, zkoušel jsi někdy číst Bibli? Nemyslím náboženství ani církev, prostě Bibli.
-    - S kamarády děláme takové objevné čtení Bible. Sejdeme se v kavárně nebo u někoho doma. Zhruba na hodinu a půl.
-    - Řekneme si, jak se máme, z Bible si spolu přečteme krátký příběh o Ježíši a bavíme se o tom.
-    - Kamarádi jsou celí překvapení, jak je to zajímavé a užitečné!
-    - Někteří jsou i úplně nevěřící. Každý tam objeví něco pro sebe.
-    - Občas někdo řekne: Ty brďo, to je v Bibli?!
-    - Jsem si jistý, že to bude zajímavé i pro tebe!
-    - Dej dohromady dva tři kamarády a pojď to se mnou zkusit!
-5. Na prvním setkání se místo „návratu“ trochu seznamte. Krátce vysvětlete, že Bible je knihovna a že v knihách jsou kapitoly a odstavce.
-6. Vše pravidelně konzultujte s Ježíšem a s někým zkušenějším v provázení Discovery.
+### How to Start
+1. Anyone can start Discovery. Invite a buddy who is also excited about Discovery.
+2. Make a broader list of people you know and pray for them to Jesus.
+3. Set a date and place for the first Discovery. Meet regularly.
+4. Invite people. Invite them repeatedly. Practice what you'll tell them:
+    - Hi John, have you ever tried reading the Bible? I don't mean religion or church, just the Bible.
+    - With friends, we do this exploratory Bible reading. We meet at a café or someone's home. About an hour and a half.
+    - We share how we're doing, read a short story about Jesus from the Bible together, and talk about it.
+    - Friends are surprised by how interesting and useful it is!
+    - Some are complete non-believers. Everyone discovers something for themselves.
+    - Sometimes someone says: Wow, that's in the Bible?!
+    - I'm sure you'll find it interesting too!
+    - Get two or three friends together and try it with me!
+5. At the first meeting, instead of "Return", get to know each other a bit. Briefly explain that the Bible is a library and that books have chapters and paragraphs.
+6. Regularly consult with Jesus and someone more experienced in guiding Discovery.
 
 </div>
 <div class="column" markdown>
 
-### Tipy
-- Zajistěte Bible, nebo čtený úsek pro každého vytiskněte, nebo použijte mobilní aplikaci (např. [YouVersion](https://www.bible.com/app)).
-- Při hledání pasáže říkejte taky číslo stránky.
-- Snažte se, aby každou třetinu provázel někdo jiný. Od třetího setkání nechte provázet i nové účastníky. Dejte jim poznámky pro provázení Discovery, ať můžou číst otázky.
-- Občas se stane, že nikdo nepřijde. To je příležitost mluvit s Ježíšem a pozvat další lidi.
+### Tips
+- Provide Bibles, or print the reading section for everyone, or use a mobile app (e.g., [YouVersion](https://www.bible.com/app)).
+- When finding a passage, also mention the page number.
+- Try to have different people guide each third. From the third meeting, let new participants guide too. Give them Discovery guiding notes so they can read the questions.
+- Sometimes no one shows up. That's an opportunity to talk with Jesus and invite more people.
 
 
-### Texty ke čtení
+### Reading Texts
 
 <div style="display: flex; justify-content: space-between;" markdown>
 <div style="flex-basis: 70%;" markdown>
 
-#### První série
+#### First Series
 
-- Nejlepší víno: [Jan 2,1–12](https://www.bible.com/bible/15/JHN.2.1-12)
-- Zacheus: [Lukáš 19,1–10](https://www.bible.com/bible/15/LUK.19.1-10)
-- O ztracené ovci: [Lukáš 15,1–7](https://www.bible.com/bible/15/LUK.15.1-7)
-- Uzdravení slepého: [Lukáš 18,35–43](https://www.bible.com/bible/15/LUK.18.35-43)
-- Utišení bouře: [Marek 4,35–41](https://www.bible.com/bible/15/MRK.4.35-41)
+- Best Wine: [John 2:1-12](https://www.bible.com/bible/59/JHN.2.1-12)
+- Zacchaeus: [Luke 19:1-10](https://www.bible.com/bible/59/LUK.19.1-10)
+- The Lost Sheep: [Luke 15:1-7](https://www.bible.com/bible/59/LUK.15.1-7)
+- Healing the Blind: [Luke 18:35-43](https://www.bible.com/bible/59/LUK.18.35-43)
+- Calming the Storm: [Mark 4:35-41](https://www.bible.com/bible/59/MRK.4.35-41)
 
 </div>
 <div markdown style="flex-basis: 24%;">
 
-#### Další texty
-<img src="/images/qr-code-dbs-texty.png" alt="QR kód: Další texty ke čtení" style="width:100%;margin-top:0;"/>
-<span style="font-size: 70%;">discoverybible.cz</span>
+#### More Texts
+<img src="/images/qr-code-dbs-texty.png" alt="QR code: More texts to read" style="width:100%;margin-top:0;"/>
+<span style="font-size: 70%;">en.discoverybible.cz</span>
 
 </div>
 </div>
