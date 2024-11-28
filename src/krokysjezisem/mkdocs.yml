@@ -2,27 +2,27 @@ site_name: Kroky s Ježíšem
 site_dir: ../../dist
 
 nav:
-  - Setkání Boží rodiny: index.md
-  - Posílení vize: posileni-vize.md
-  - Discovery: https://discoverybible.cz
-  - Kartičky k tisku: karticky-k-tisku.md
+  - Meeting of God's family: index.md
+  - Vision strengthening: posileni-vize.md
+  - Discovery: https://en.discoverybible.cz
+  - Cards for printing: karticky-k-tisku.md
 
 theme:
   name: material
-  language: cs
+  language: en
   palette:
     - scheme: default
       primary: green
       accent: green
       toggle:
         icon: material/brightness-4
-        name: Tmavý režim
+        name: Dark mode
     - scheme: slate
       primary: green
       accent: green
       toggle:
         icon: material/brightness-7
-        name: Světlý režim
+        name: Light mode
   features:
     - content.tooltips
     - grids

@@ -182,11 +182,11 @@ body.print-mode {
 }
 
 .print-mode #bozi-rodina-main .column:nth-child(2) {
-  flex-basis: calc(37% - 14px);
+  flex-basis: calc(38% - 14px);
 }
 
 .print-mode #bozi-rodina-main .column:nth-child(3) {
-  flex-basis: calc(34% - 14px);
+  flex-basis: calc(33% - 14px);
 }
 
 .print-mode #posileni-vize .column:nth-child(1) {

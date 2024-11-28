@@ -3,7 +3,7 @@
   document.querySelector('.md-content').classList.add('three-thirds');
 </script>
 
-# Setkání Boží rodiny (malé církve)
+# Meeting of God's family (small church)
 
 <div class="swiper" markdown>
 <div class="swiper-pagination"></div>
@@ -11,66 +11,65 @@
 <div class="column swiper-slide" markdown>
 
 <div class="paticka-narrow" markdown>
-<p style="margin-top: 32px;margin-bottom: -10px;">Podělte se o provázení jednotlivých částí setkání.</p>
+<p style="margin-top: 32px;margin-bottom: -10px;">Share in leading different parts of the meeting.</p>
 </div>
 
-## Pohled zpět
+## Look back
 
-### :custom-vzajemna-pece: Vzájemná péče
-- Za kterou jednu věc jsme od minula nejvíce **vděční**?
-- Která jedna věc nám dělá **starosti**?
-- **Ježíši, prosíme** za... konkrétní starosti.
+### :custom-vzajemna-pece: Care
+- What one thing are we most **grateful** for since last time?
+- What one thing **worries** us?
+- **Jesus, we pray** for... specific concerns.
 
-### :custom-navrat: Návrat <span class="nikdy-nevynechej"></span>
+### :custom-navrat: Return <span class="nikdy-nevynechej"></span>
 
-- K čemu nás Ježíš minule vedl a jak jsme to **uplatnili** v praxi?
-- Jak jsme **sdíleli Ježíše** a pomáhali učedníkům v růstu?
+- What did Jesus lead us to last time and how did we **apply** it in practice?
+- How did we **share Jesus** and help disciples grow?
 
-### :custom-oslava-jezise: Oslava Ježíše
-- Připomeňme si teď **Ježíšovu oběť** chlebem a červeným nápojem.
-- **Děkujme Mu** za to, jaký je a co pro nás udělal: slovy, kouskem z Bible, písněmi, štědrostí…
-
-</div>
-<div class="column swiper-slide" markdown>
-
-## Pohled nahoru
-
-### :custom-posileni-vize: Posílení vize <span class="nikdy-nevynechej"></span>
-- Jako Boží rodina, tedy církev,
-    - **společně rosteme** v oddanosti Ježíši,
-    - sobě navzájem,
-    - v získávání a budování učedníků
-    - a usilujeme o vznik dalších Božích rodin.
-- <span class="screen-only">(Další tipy najdeš v sekci „[Posílení vize](posileni-vize.md)“)</span>
-- <span class="print-only">(Další tipy najdeš na druhé straně)</span>
-
-### :custom-bible: Bible / Nové téma
-- **Přečtěme si dnešní text:**
-    - Kdo nám to **poprvé** pomalu a nahlas **přečte**? My ostatní budeme ten text sledovat.
-    - Kdo nám to **přečte podruhé**? My ostatní budeme jen **naslouchat**.
-    - Nikdo se teď nedívejme do textu a zkusme společně **shrnout** ten text zpaměti.
-    - V textu **prověřme správnost** shrnutí.
-- Co tento text říká **o Ježíši** nebo o Bohu?
-- Co nám tento text říká **o lidech**?
-
+### :custom-oslava-jezise: Celebrate Jesus
+- Let's remember **Jesus's sacrifice** with bread and red drink.
+- Let's **thank Him** for who He is and what He did for us: with words, Bible verses, songs, generosity...
 
 </div>
 <div class="column swiper-slide" markdown>
 
-## Pohled dopředu
+## Look up
 
-### :custom-akce: Akce <span class="nikdy-nevynechej"></span>
-- **Naslouchejme** teď Ježíši a **zapišme** si:
-    - **K čemu** nás Ježíš na základě dneška vede?
-    - **Komu** řekneme o Ježíši a jak pomůžeme učedníkům v růstu?  Můžeme použít vztahovou mapu.
-- Co nám **Ježíš řekl**?
+### :custom-posileni-vize: Vision <span class="nikdy-nevynechej"></span>
+- As God's family, that is church, we:
+    - **grow together** in devotion to Jesus,
+    - to one another,
+    - in making and building disciples
+    - and strive to start new God's families.
+- <span class="screen-only">(Find more tips in the "[Vision strengthening](posileni-vize.md)" section)</span>
+- <span class="print-only">(Find more tips on the second page)</span>
 
-### :custom-procvicovani: Procvičování <span class="nikdy-nevynechej"></span>
-- Co si potřebujeme **procvičit**, abychom tento týden sdíleli Ježíše a pomáhali učedníkům v růstu?
-- (Např. Mapa vztahů, Zájem a modlitba, Bleskový příběh, Most, Pozvání na Discovery, Mince + BOSS + křest, Trychtýř, Enter)
+### :custom-bible: Bible / New topic
+- **Let's read today's text:**
+    - Who will **read** it **first**, slowly and aloud? The rest of us will follow the text.
+    - Who will **read it second**? The rest of us will just **listen**.
+    - Let's not look at the text now and try to **summarize** it together from memory.
+    - Let's **verify the accuracy** of our summary.
+- What does this text say **about Jesus** or God?
+- What does this text tell us **about people**?
 
-### :custom-rozhovor-s-jezisem: Rozhovor s Ježíšem
-- **Poprosme Ježíše** za sebe navzájem a za lidi, které chceme oslovit.
+</div>
+<div class="column swiper-slide" markdown>
+
+## Look forward
+
+### :custom-akce: Action <span class="nikdy-nevynechej"></span>
+- Let's now **listen** to Jesus and **write down**:
+    - What is Jesus leading us to based on today?
+    - **Who** will we tell about Jesus and how will we help disciples grow? We can use relationship map.
+- What did **Jesus tell** us?
+
+### :custom-procvicovani: Practice <span class="nikdy-nevynechej"></span>
+- What do we need to **practice** to share Jesus and help disciples grow this week?
+- (E.g. Relationship map, Interest and prayer, 15s story, Bridge, Discovery invitation, Coin + BOSS + baptism, Funnel, Enter)
+
+### :custom-rozhovor-s-jezisem: Conversation with Jesus
+- Let's **ask Jesus** for each other and for people we want to reach.
 
 </div>
 </div>
@@ -78,6 +77,6 @@
 
 <div class="paticka-wide" markdown>
 <hr>
-Podělte se o provázení jednotlivých částí setkání.
-<p class="print-only">listopad 2024</p>
+Share in leading different parts of the meeting.
+<p class="print-only">November 2024</p>
 </div>

@@ -9,20 +9,20 @@ nav:
 
 theme:
   name: material
-  language: cs
+  language: en
   palette:
     - scheme: default
       primary: light blue
       accent: light blue
       toggle:
         icon: material/brightness-4
-        name: Tmavý režim
+        name: Dark mode
     - scheme: slate
       primary: light blue
       accent: light blue
       toggle:
         icon: material/brightness-7
-        name: Světlý režim
+        name: Light mode
   features:
     - content.tooltips
     - grids
