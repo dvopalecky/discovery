@@ -2,9 +2,9 @@ let swiper;
 
 function setupSwiper() {
   const thirdsLabels = [
-    "Pohled zpět",
-    "Pohled nahoru",
-    "Pohled dopředu"
+    "Look back",
+    "Look up",
+    "Look forward"
   ]
 
   swiper = new Swiper('.swiper', {

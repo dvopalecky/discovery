@@ -12,7 +12,7 @@ describe('discovery', () => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 
@@ -21,13 +21,13 @@ describe('discovery', () => {
     await page.goto(link);
     await expect(page).toHaveScreenshot();
 
-    await page.click('span.swiper-pagination-bullet:has-text("Pohled nahoru")');
+    await page.click('span.swiper-pagination-bullet:has-text("Look up")');
     await expect(page).toHaveScreenshot();
 
-    await page.click('span.swiper-pagination-bullet:has-text("Pohled dopředu")');
+    await page.click('span.swiper-pagination-bullet:has-text("Look forward")');
     await expect(page).toHaveScreenshot();
 
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
 
   });
@@ -39,7 +39,7 @@ describe('jak-zacit-discovery', () => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 
@@ -47,7 +47,7 @@ describe('jak-zacit-discovery', () => {
     await page.setViewportSize(viewportMobile);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 });
@@ -58,7 +58,7 @@ describe('texty-ke-cteni', () => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 
@@ -66,7 +66,7 @@ describe('texty-ke-cteni', () => {
     await page.setViewportSize(viewportMobile);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 });
@@ -77,7 +77,7 @@ describe('karticky-k-tisku', () => {
     await page.setViewportSize(viewportDesktop);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 
@@ -85,7 +85,7 @@ describe('karticky-k-tisku', () => {
     await page.setViewportSize(viewportMobile);
     await page.goto(link);
     await expect(page).toHaveScreenshot();
-    await page.click('label[title="Tmavý režim"]');
+    await page.click('label[title="Dark mode"]');
     await expect(page).toHaveScreenshot();
   });
 });
