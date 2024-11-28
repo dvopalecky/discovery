@@ -54,4 +54,4 @@ but since they use similar tech, they are in the same repo.
 - change viewBox="-105 -105 1260 1260" in code editor
 
 # QR Code generation
-- `qrcode -o docs/images/qr-code-krokysjezisem.png "https://krokysjezisem.cz" -e Q -w 512 -q 0`
+- `qrcode -o src/krokysjezisem/docs/images/qr-code-krokysjezisem.png "https://krokysjezisem.cz" -e Q -w 512 -q 0`
