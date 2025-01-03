@@ -8,10 +8,11 @@ but since they use similar tech, they are in the same repo.
 # Requirements
 - UNIX based development environment
 - [uv](https://docs.astral.sh/uv/) installed - to run python and packages
-- [qpdf](https://github.com/qpdf/qpdf) installed - only for printing
+- [qpdf](https://github.com/qpdf/qpdf) installed - only for merging pdfs
 
 # Installation
 - `uv sync --frozen`
+- `uv run playwright install`
 
 # Run local dev server
 - `./dev.sh discovery` or `./dev.sh krokysjezisem`
@@ -53,4 +54,4 @@ but since they use similar tech, they are in the same repo.
 - change viewBox="-105 -105 1260 1260" in code editor
 
 # QR Code generation
-- `qrcode -o src/krokysjezisem/docs/images/qr-code-krokysjezisem.png "https://krokysjezisem.cz" -e Q -w 512 -q 0`
+- `bunx qrcode -o src/discovery/docs/images/qr-code-dbs-texty.png "https://discoverybible.cz/texty-ke-cteni/" -e Q -w 512 -q 0`

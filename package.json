@@ -3,5 +3,8 @@
     "@playwright/test": "^1.47.2",
     "playwright": "^1.47.2"
   },
-  "name": "discovery-app"
+  "name": "discovery-app",
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
 }
